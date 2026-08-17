@@ -1,0 +1,11 @@
+Study: NCT04540692
+
+Summary:
+Phase III randomized clinical trial evaluating the sequencing of anthracyclines and taxanes in neoadjuvant therapy for locally advanced HER2-negative breast cancer.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Female participants, with at least 18 years old on the day of signing the free and informed consent;~* Invasive breast carcinoma stage III (RH positive) or IIB/III (RH negative), according to TNM 8th edition; Histologically confirmed diagnosis of invasive breast carcinoma (with any histology), HER-2 negative;~* The participant (or legally acceptable representative, if applicable) provides written informed consent for the study;~* The participant must agree to use a contraceptive as detailed in Appendix B of this protocol during the treatment period and for at least 120 days after the last dose of the study treatment;~* Have a functional capacity according to the Eastern Cooperative Oncology Group (ECOG) from 0 to 2. The evaluation of the ECOG must be carried out within 7 days before the inclusion date.~* Have adequate organic function. The samples must be collected within 60 days before the start of the study treatment;~* Have adequate cardiac function as assessed by echocardiogram or MUGA performed up to 60 days before the start of treatment under study.~Exclusion Criteria:~\- Individuals who do not meet the inclusion criteria above-mentioned.
+
+Interventions:
+- (DRUG) Docetaxel or Paclitaxel: Treatment will start with Docetaxel 75-100mg/m² intravenously every 21 days for 4 cycles or weekly paclitaxel 80mg/m² for 12 weeks
+- (DRUG) Cyclophosphamide + Doxorrubicin: Treatment will start with Doxorubicin 60mg/m²; Cyclophosphamide 600mg/m² intravenously every 21 days for 3 cycles

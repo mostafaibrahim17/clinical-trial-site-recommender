@@ -1,0 +1,10 @@
+Study: NCT04522648
+
+Summary:
+This randomized trial will test the effect of a prospective surveillance program for early detection and subclinical management of breast cancer-related lymphedema on the prevalence of chronic lymphedema.
+
+Eligibility Criteria:
+Inclusion Criteria:~* female;~* ≥18 years;~* surgery for breast cancer (unilateral and bilateral) including ALDN with \>6 lymph nodes removed;~* can effectively communicate verbally in Danish;~Exclusion Criteria:~* surgery for breast cancer with SLNB or \< 6 nodes removed;~* pre-existing lymphedema (primary or secondary);~* previous treatment for breast cancer;~* pace maker;~* conditions known to cause swelling (pregnancy, congestive heart failure, chronic/acute renal disease, cor pulmonale, nephrotic syndrome, nephrosis, liver failure or cirrhosis, pulmonary edema, and thrombophlebitis or deep vein thrombosis in the arms).
+
+Interventions:
+- (OTHER) Prospective surveillance: A participant with an increase from pre-surgery in total arm volume of ≥6% by self-measurement, or symptoms of BCRL ≥2 NRS will receive an assessment by a lymphedema therapist. At this appointment, participants will receive a physical examination of the arm along with a BIS measurement. A participant is considered having subclinical BCRL if an increase in lymphedema index (L-DEX) ≥7 from pre-surgery measured by BIS is identified. A fitted compression garment and gauntlet is then provided, free of charge, for daily wear 10 hours/day for four weeks along with a recommendation to use the arm for daily activities and maintain regular physical activity. Following the four-week compression period, participants will be re-measured using BIS to evaluate response. Participants who do not respond to compression will receive CDT delivered by the lymphedema therapist.

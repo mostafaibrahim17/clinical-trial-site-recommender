@@ -1,0 +1,10 @@
+Study: NCT07428720
+
+Summary:
+The purpose of this study is to improve regional surgical treatment in breast cancer patients with axillary lymph node metastases (cN+) who received neoadjuvant systemic treatment (NAST) by using ultrasound elastography.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Female patients aged 18 years or older~* Histologically confirmed breast cancer~* Clinically positive axillary lymph nodes before neoadjuvant systemic treatment (cN+)~* Completed neoadjuvant systemic treatment (NAST)~* Planned axillary surgery (sentinel lymph node biopsy and/or axillary lymph node dissection)~* Ability to provide written informed consent~Exclusion Criteria:~* Age \< 18 years~* Male patients~* Metastatic disease at diagnosis~* Inflammatory breast cancer~* New primary breast cancer~* Bilateral breast cancer~* Pregnancy~* Previous breast or axillary surgery
+
+Interventions:
+- (DEVICE) Ultrasound Elastography: Ultrasound elastography is used to assess axillary lymph nodes in order to identify metastases or regressive posttreatment changes after neoadjuvant systemic treatment.

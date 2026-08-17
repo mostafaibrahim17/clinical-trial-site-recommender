@@ -1,0 +1,11 @@
+Study: NCT06553235
+
+Summary:
+The goal of the study is to investigate whether treating insomnia using app-based cognitive behavioral therapy for insomnia (CBT-I) can improve cognitive impairment in breast cancer survivors compared to an active control group (sleep hygiene education). The study will also explore if CBT-I is associated with changes in the brain and in inflammation. The investigators will recruit approximately 84 participants with insomnia and cognitive impairment who have completed breast cancer treatment within 1-5 years.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Age ≥18 years~* Have completed primary breast cancer (BC) treatment within 1-5 years (endocrine therapies allowed)~* Insomnia: a score of \>10 on the Insomnia Severity index (ISI) and/or meet the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-5) criteria for Insomnia Disorder~* Cognitive impairment: a score of quite a bit or very much on at least 1 of the 2 items measuring concentration and memory on The European Organization for Research and Treatment of Cancer Core Quality of Life (EORCT-QLQ-C30) and/or \<54 on the Cancer Therapy-Cognitive (FACT-Cog) perceived cognitive impairment (PCI) subscale~Exclusion Criteria:~* Other sleep disorders than insomnia that may confound sleep and/or cognitive function~* Use of drugs impacting that may confound sleep and/or cognitive function (endocrine therapies allowed)~* Neurodegenerative and psychiatric disorders that may confound sleep and/or cognitive function~* Shift work~* Pregnancy or maternity leave~* Recurrence of BC or new cancer~* Insufficient Danish proficiency~* Substance abuse that may confound sleep and/or cognitive function~* Previous experience with CBT-I~* Other cancer than breast cancer
+
+Interventions:
+- (BEHAVIORAL) Cognitive Behavioral Therapy for Insomnia (CBT-I): CBT-I is a multi-component intervention consisting of sleep restriction, stimulus control therapy, relaxation therapy, cognitive therapy, and sleep hygiene education
+- (BEHAVIORAL) Sleep hygiene education: \- Sleep hygiene education includes information on lifestyle factors (diet, exercise, substance use) and environmental variables (noise, light, temperature) affecting sleep quality.

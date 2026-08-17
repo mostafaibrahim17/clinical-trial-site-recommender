@@ -1,0 +1,10 @@
+Study: NCT07044583
+
+Summary:
+The study will assess the efficacy of a standardized postoperative patient-centered intervention designed to educate patients on the opioid epidemic, the judicious use of opioids, and the proper disposal of opioids. This trial is a single-institution, randomized controlled trial comparing total post-discharge opioid use in breast reconstruction patients who view an educational video on proper opioid use to patients who do not receive intentional education (the current standard of care).~This will be the first project to inform opioid prescribing guidelines for breast reconstruction patients based on actual opioid use data and will describe a patient-centered intervention that is easily incorporated into current postoperative workflows. Broadly, the results of the study aim to set the foundation to incorporate cost-effective educational interventions across multiple surgical specialties that require postoperative opioid prescription.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Female patients 18 years of age or older~* Patients undergoing abdominally based autologous free flap breast reconstruction after mastectomy for breast cancer or cancer prophylaxis~Exclusion Criteria:~* Patients undergoing reoperations such as autologous breast reconstruction as a revision procedure following failed implant-based reconstruction~* Patients undergoing multiple procedures such as mastectomy and immediate reconstruction~* Patients with documented chronic opioid use prior to procedure, chronic pain condition
+
+Interventions:
+- (BEHAVIORAL) Opioid Educational Video: The video includes information on (1) how to consume appropriate over-the-counter pain medication alongside opioids for optimal pain control, (2) how prescribed opioids should be used only to treat pain related to the surgery, and (3) the proper disposal of unused opioids. The video was created through the University of Utah Office of Patient Experience. Feedback regarding the educational content was provided by surgeons, pain management physicians, and pharmacists throughout the process.

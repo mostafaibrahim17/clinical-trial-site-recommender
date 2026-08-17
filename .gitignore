@@ -1,0 +1,25 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data
+aact_sample/
+data/synthetic_performance.json
+
+# Images
+Images/
+
+# OS
+.DS_Store
+Thumbs.db
+

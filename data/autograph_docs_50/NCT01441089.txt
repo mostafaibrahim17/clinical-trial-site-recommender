@@ -1,0 +1,10 @@
+Study: NCT01441089
+
+Summary:
+Background:~\- Some genes may be associated with a greater chance of side effects during cancer treatment. These genes may also make certain treatments less effective. Researchers want to collect blood or cheek swab samples from people having cancer treatment to study these genes.~Objectives:~\- To obtain a blood or cheek swab sample to study genetic differences that may affect cancer treatment.~Eligibility:~\- Individuals with cancer who are being treated at the National Cancer Institute.~Design:~* Participants will provide a blood sample for study.~* Participants who have blood-based cancer, such as leukemia, will provide a cheek swab sample.~* If the blood or cheek swab sample does not have enough genetic material for analysis, an additional sample may be collected.
+
+Eligibility Criteria:
+* INCLUSION CRITERIA:~* Any individual currently enrolled in an NIH intramural research program clinical trials receiving treatment.~* Ability of participant or Legally Authorized Representative (LAR) to understand and be willing to sign the informed consent document.~* Age \>= 3 years old~EXCLUSION CRITERIA:~-N/A
+
+Interventions:
+

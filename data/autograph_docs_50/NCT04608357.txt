@@ -1,0 +1,10 @@
+Study: NCT04608357
+
+Summary:
+The investigators propose to use clinically validated patient avatar technology (PDXovo) that can test multiple drugs against patients' cancers to identify the most promising systemic therapy for each individual.
+
+Eligibility Criteria:
+Inclusion Criteria:~1. Age 18+.~2. Metastatic breast cancer irrespective of subtype.~3. Measurable disease as per RECIST 1.1 criteria.~4. Metastatic disease involving the lymph nodes and/or visceral organs is required.~5. Willingness to undergo a biopsy prior to the start of planned systemic therapy.~Exclusion Criteria:~1. Lack of feasibility to obtain a core biopsy of a metastatic site other than the bone (e.g. a metastatic lesion cannot be safely sampled due to proximity to vasculature).~2. Inability to provide informed consent.
+
+Interventions:
+- (DIAGNOSTIC_TEST) Needle Core Biopsies: Not an interventional study

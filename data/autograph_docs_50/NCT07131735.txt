@@ -1,0 +1,10 @@
+Study: NCT07131735
+
+Summary:
+The aim of this clinical trial is to assess the feasibility of training a device capable of distinguishing various gases emitted by tissues cauterized by an electrosurgical unit during a breast cancer resection surgery. The patients to be enrolled will be women over 18 years old diagnosed with breast cancer who are indicated for conservative breast cancer resection surgery as treatment.~The main questions to be answered are:~The specificity and sensitivity of the device in detecting margins compromised with tumor cells in resection surgeries.~Evaluate the applicability of the device in breast cancer surgeries for real-time detection of margins.~Evaluate the differences in the pattern of gases emitted in tumor cells vs normal cells.~By consenting, the study patients will allow the investigative team to access the clinical record, results of images, post-surgical biopsies, recording of the surgery while preserving the patient's anonymity, and the installation of the gas detection device. This device does not alter the flow of the surgery and does not add additional risk to it.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Histologically confirmed diagnosis of malignant breast cancer~* Scheduled for BCS at the Hospital UC~* Able and willing to provide informed consent~Exclusion Criteria:~* Pregnant or lactating women~* Patients with known hypersensitivity or allergy to any component of the BCGC device~* Participation in another interventional clinical trial within 30 days prior to enrolment
+
+Interventions:
+

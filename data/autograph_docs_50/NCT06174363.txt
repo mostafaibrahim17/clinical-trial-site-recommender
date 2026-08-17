@@ -1,0 +1,11 @@
+Study: NCT06174363
+
+Summary:
+The present study aims to find a perioperative analgesic method that provides sufficient analgesia while reducing immune compromise in cancer surgery. This study is to investigate the analgesic effect and safety of Maxigesic inj. (a combination of acetaminophen 1000 mg and ibuprofen 300 mg), which is added to opioid-based IV-PCA in patients undergoing breast cancer surgery.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Patient aged 20 to 70 years with ASA classification 1 to 3 undergoing breast cancer surgery (cancer resection or reconstruction)~Exclusion Criteria:~* ASA classification 4/ allergy to acetaminophen, NSAIDs, opioid/ severe liver or renal dysfunction/ pregnancy
+
+Interventions:
+- (DRUG) Maxigesic: For postoperative analgesia, 50 mcg of fentanyl was administered 15 minutes before the end of surgery, and IV-PCA (fentanyl 1.0 mcg/kg, ramosetron 0.3 mg, total 250cc, infusion rate 5cc/h, bolus 0.5 cc, lock-out time 15min) is started. Additionally, in the Maxigesic group, one vial of Maxigesic (acetaminophen 1000mg/ ibuprofen 300mg) is administered 15 minutes before the end of the surgery, and 2 vials of Maxigesic are added to the IV-PCA.
+- (DRUG) 0.9% saline solution: For postoperative analgesia, 50 mcg of fentanyl was administered 15 minutes before the end of surgery, and IV-PCA (fentanyl 1.0 mcg/kg, ramosetron 0.3 mg, total 250cc, infusion rate 5cc/h, bolus 0.5 cc, lock-out time 15min) is started. Additionally, in the control group, the same amount of 0.9% saline solution with Maxigesic is administered.

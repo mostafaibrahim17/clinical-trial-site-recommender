@@ -1,0 +1,12 @@
+Study: NCT06220214
+
+Summary:
+The purpose of this study is to compare a special type of mammogram that uses a contrast agent called contrast-enhanced digital mammography with contrast-enhanced digital breast tomosynthesis (CEDM+CEDBT), with breast magnetic resonance imaging imaging (MRI) for predicting the effect of neoadjuvant chemotherapy on pathologic complete response rates. The device used to obtain CEDM+CEDBT images is called Siemens MAMMOMAT. This device produces two-dimensional (2D) images, as in a normal mammogram, but also collects additional images for digital breast tomosynthesis (DBT), which produces a three-dimensional (3D) image of the breast in the form of image slices. DBT allows the radiologist to see through the breast tissue for better detection and localization of breast cancer. By looking at both the CEDM images and the CEDBT images, a radiologist may be able to better detect residual breast cancer in a more cost-effective manner.~Participation may last up to 18 weeks.~Study procedures for this research are:~* Undergoing 1-2 mammograms during and/or after your chemotherapy, but before primary breast surgery.~* Before each mammogram, have a radiology technician inject a liquid contrast agent by inserting a needle into a vein. The chemotherapy port cannot be used to receive the contrast agent~* Let the research team record information from your medical record related to your condition and the treatment you receive.~* Give permission to collect leftover tissue from your diagnostic biopsy and breast surgery.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Diagnosis with either type of invasive locally advanced breast cancer regardless of hormone receptor or Her2 status~* Plan to receive at least 4 cycles of neoadjuvant chemotherapy ahead of definitive surgery~Exclusion Criteria:~* Pregnancy~* Allergy/sensitivity to contrast agent~* Decreased kidney function~* Diabetes
+
+Interventions:
+- (DIAGNOSTIC_TEST) CEDM: Contrast Enhanced Digital Mammography
+- (DIAGNOSTIC_TEST) CEDBT: Contrast-Enhanced Digital Breast Tomosynthesis
+- (DRUG) Omnipaque 350mgI/mL Solution for Injection: Injection of an FDA approved iodinated contrast agent is required to undergo the imaging procedures. It is not the intent of the study to evaluate the contrast agent, but it will be administered at the time of experimental imaging.

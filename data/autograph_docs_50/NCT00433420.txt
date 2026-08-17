@@ -1,0 +1,15 @@
+Study: NCT00433420
+
+Summary:
+RATIONALE: Drugs used in chemotherapy, such as epirubicin, cyclophosphamide, paclitaxel, and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells. Colony-stimulating factors, such as pegfilgrastim, may increase the number of immune cells found in bone marrow or peripheral blood and may help the immune system recover from the side effects of chemotherapy. Giving combination chemotherapy and pegfilgrastim after surgery may kill any tumor cells that remain after surgery. It is not yet known whether combination chemotherapy is more effective with or without fluorouracil and/or pegfilgrastim in treating breast cancer.~PURPOSE: This randomized phase III trial is studying combination chemotherapy to compare how well it works when given with or without fluorouracil and/or pegfilgrastim in treating women with node-positive breast cancer.
+
+Eligibility Criteria:
+DISEASE CHARACTERISTICS:~* Histologically confirmed primary breast cancer~  * No histology other than carcinoma~* Node-positive disease~  * Must have at least 1 involved axillary node or internal mammary node~* Previously resected disease~  * Has undergone radical surgery (i.e., mastectomy or conservative surgery) with axillary node dissection within the past 7 weeks~* No inflammatory carcinoma~* No prior or concurrent ipsilateral or contralateral invasive breast carcinoma~* No metastatic disease, including metastasis in the ipsilateral supraclavicular lymph nodes~* Hormone receptor status not specified~PATIENT CHARACTERISTICS:~* Female~* Menopausal status not specified~* ECOG performance status 0-1~* Absolute neutrophil count ≥ 1,500/mm³~* WBC ≥ 4,000/mm³~* Platelet count ≥ 100,000/mm³~* Hemoglobin ≥ 9 g/dL~* Bilirubin ≤ 1.5 times upper limit of normal (ULN)~* Creatinine ≤ 1.5 times ULN~* AST and ALT ≤ 2.5 times ULN~* Not pregnant or nursing~* Negative pregnancy test~* Fertile patients must use effective contraception~* No chronic liver or renal disease~* No other serious medical illness requiring medication~* No other malignancy except adequately treated, cone-biopsied in situ carcinoma of the cervix or basal cell or squamous cell carcinoma of the skin~* No symptomatic peripheral neuropathy \> grade 2~* No hypersensitivity to study drugs or their components~* No recent myocardial infarction, congestive heart failure, or serious arrhythmia~PRIOR CONCURRENT THERAPY:~* See Disease Characteristics~* No prior chemotherapy~* No prior cytotoxic regimens~* No prior radiation therapy, except for intraoperative radiation therapy
+
+Interventions:
+- (BIOLOGICAL) pegfilgrastim: nan
+- (DRUG) cyclophosphamide: nan
+- (DRUG) epirubicin hydrochloride: nan
+- (DRUG) fluorouracil: nan
+- (DRUG) paclitaxel: nan
+- (PROCEDURE) adjuvant therapy: nan

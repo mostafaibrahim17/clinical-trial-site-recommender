@@ -1,0 +1,17 @@
+Study: NCT04172259
+
+Summary:
+Breast cancer is the most common malignant tumor in women. EC-TH is one of the standard chemotherapy regimens for HER-2 positive early breast cancer(EBC). Earlier use of trastuzumab may improve DFS rate. In this study, the investigators want to find out whether ACH-TH regimen compared with the EC-TH regimen in HER2+ EBC could improve the pCR rate in neoadjuvant chemotherapy.~We update protocol in Sep 2020, because Pertuzumab is approveled by Chinese goverment and coverd by national insurance, dual target therapy with Trastuzumab and Pertuzumab is the standard therapy for neoadjuvant therapy of HER2-positive EBC patients.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Adult patient, \>/= 18 years of age, \</= 70 years of age.~* HER2-positive breast cancer~* Histologically confirmed invasive breast carcinoma~* Clinical stage T2-4/N0-3/M0 or node positive at presentation (patients with T1 tumors will not be eligible)~* Known hormone-receptor status~* Non previous anti-breast cancer neoadjuvant chemotherapy~* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1~* Adequate hematologic, renal and liver function~* Screening Left ventricular ejection fraction (LVEF) \>/= 50% on echocardiogram (ECHO)~* Adequate organ function~Exclusion Criteria:~* Stage IV (metastatic) breast cancer or bilateral breast cancer~* History of any prior (ipsi- or contralateral breast cancer except lobular carcinoma in situ)~* History of other malignancy within the last 5 years except for appropriately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, Stage I uterine cancer, or other non-breast malignancies with a similar outcome to those mentioned above~* Cardiopulmonary dysfunction as defined by protocol~* Current severe, uncontrolled systemic disease~* Pregnant or lactating women~* Any known active liver disease, e.g. due to HBV, HCV, autoimmune hepatic disorders, or sclerosing cholangitis~* Concurrent serious uncontrolled infections requiring treatment or known infection with HIV~* History of intolerance, including Grade 3 to 4 infusion reaction or~* hypersensitivity to trastuzumab or chemotherapy drugs
+
+Interventions:
+- (DRUG) Doxorubicin liposome: PLD
+- (DRUG) Cyclophosphamide: CTX
+- (DRUG) Trastuzumab: H
+- (DRUG) Docetaxel: DOC
+- (DRUG) Epirubicin: EPI
+- (DRUG) Pertuzumab: P
+- (DRUG) Paclitaxel: paclitaxel (PTX) 175 mg/m2 every 3 weeks or paclitaxel (PTX) 80 mg/m2 every week
+- (DRUG) Paclitaxel-albumin: albumin-bound paclitaxel 260 mg/m2 or albumin-bound paclitaxel 100 mg/m2 every week

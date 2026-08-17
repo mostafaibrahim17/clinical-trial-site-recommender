@@ -1,0 +1,10 @@
+Study: NCT04623554
+
+Summary:
+The Neo-Train study is a randomized controlled trial investigating the effects of supervised pre-operative aerobic and resistance exercise in patients with breast cancer during neoadjuvant chemotherapy.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Patients newly diagnosed with histologically verified breast cancer and scheduled for neoadjuvant chemotherapy~* Female gender~* Aged ≥ 18 years old~* Signed informed consent~Exclusion Criteria:~* Patients ineligible for or who have declined to receive neoadjuvant chemotherapy~* Contraindications to magnetic resonance imaging (MRI)~* Physical or cognitive disabilities preventing exercise or physical testing~* Inability to read and understand Danish~* Based on clinical judgement, the physician assesses that the patient is not suitable for inclusion
+
+Interventions:
+- (BEHAVIORAL) Prehabilitation program: The prehabilitation program includes combined high-intensity interval training on a cycle ergometer and machine-based resistance exercise of large muscle groups supervised by a physiotherapist. Exercise sessions will take place in physiotherapy departments at local hospitals or in municipality rehabilitation centres 3 times a week during the neoadjuvant chemotherapy period and ending in the week before breast surgery (maximum estimated 29 weeks depending on number of chemotherapy cycles, dose delays and time of breast surgery). Participants will be screened for psychological distress four times and in case of moderate-severe distress be advised to visit the local Cancer Society Support Center where participants will be assessed and offered free services based on their psychosocial needs and available offers. Participation will be monitored.

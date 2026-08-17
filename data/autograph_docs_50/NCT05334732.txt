@@ -1,0 +1,10 @@
+Study: NCT05334732
+
+Summary:
+The purpose of this study is to test an evidence-based intervention designed to increase adherence to systemic therapy in Black women compared to enhanced usual care.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Self-identify as Black~* Newly diagnosed (\~4 weeks post-definitive surgery and prior to initiation of adjuvant chemotherapy or endocrine therapy) patients (stage I-III)~* Eligible for chemotherapy or endocrine therapy according to NCCN guidelines, but have not initiated systemic therapy~* Ability to read and speak English~* Ability to provide meaningful consent as determined by trained study personnel and/or a member of the patient's care team~* No prior cancer treatment (other than skin cancer) in the two years preceding enrollment~* Physicians Must be a license doctor of study patient(s)~* Ability to speak English
+
+Interventions:
+- (BEHAVIORAL) SIS TALK Back Intervention: The participants in this arm will be seen by a trained survivor coach and receive culturally tailored intervention materials.

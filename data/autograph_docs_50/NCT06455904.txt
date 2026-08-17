@@ -1,0 +1,10 @@
+Study: NCT06455904
+
+Summary:
+The association of anthracyclines (ANT) and paclitaxel (Tax) is one of the main treatments used in breast cancer. These treatments are known to induce severe side effects such as a decrease in overall exercise capacity (physical condition) in response to muscle and cardiorespiratory alterations. If exercise may be an effective preventive strategy, it seems important to prescribe the most efficient exercise modality. Among them, concentric cycling (i.e., classic cycling) can significantly induce metabolic stimulus, which is needed for maintaining exercise capacity. The PROTECT-07 study aims to demonstrate the superiority of a training program based on concentric cycling during chemotherapy compared to standard treatment. The duration of the training program is 15 weeks with one session per week.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Woman ≥ 18 years old~* Stage I to III breast cancer~* Patient currently planning (neo)adjuvant treatment combining anthracycline-cyclophosphamide and weekly paclitaxel (± trastuzumab)~* Affiliation to a social security system~* Able to speak, read and understand French~Exclusion Criteria:~* No prior chemotherapy treatment~* Any known cardiac or vascular pathology~* Contraindications to physical fitness assessment~* Protected adult~* Psychiatric, musculoskeletal or neurological problems~* Pregnant or breastfeeding woman (NB: this population is already subject to a contraindication to (neo)adjuvant treatment. For women of childbearing age, a betaHCG dosage is already carried out systematically before the start of chemotherapy and information on the need for contraception throughout the chemotherapy period is provided before the start of treatment. As part of this study, only the presence of this test with a negative result at the start of chemotherapy will be checked. inclusion, if available).
+
+Interventions:
+- (PROCEDURE) Training sessions: The training program will be performed during 15 weeks, with one session per week.

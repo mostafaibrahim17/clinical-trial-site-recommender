@@ -1,0 +1,10 @@
+Study: NCT07389967
+
+Summary:
+This study explores perspectives of women with non-metastatic breast cancer regarding their willingness and ability to make dietary changes pertaining to foods/food products that may pose a risk to their cancer prognosis and survival.~This is a single-group study conducted entirely online. All study activities, including consent, educational brochure and surveys, will be completed remotely. Participants will receive email invitations to complete questionnaires in REDCap.~Questionnaire 1 will collect sociodemographic information (no PHI) and a brief dietary recall.~Questionnaire 2 will assess identification of ultra-processed foods. Before Questionnaire 3, participants will review a two-page educational flyer explaining the link between diet, obesity, and cancer, with information on unhealthy calories and food processing.~Questionnaire 3 will assess participants' willingness and ability to eat healthier foods and reduce unhealthy foods.~At study completion, participants will receive a thank-you message and a brief satisfaction survey.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Age \>18 -Female~* Diagnosis of non-metastatic breast cancer~* Completion of primary treatment for breast cancer~* No recurrence or metastasis; or no other cancer other than basal or squamous cell~* Willingness to provide a private email address for all study activities~* Ability to read and understand English~Exclusion Criteria:~* Inability to comply with one or more of the inclusion criteria
+
+Interventions:
+- (BEHAVIORAL) Educational Brochure: The two-page educational brochure is emailed to participants after Questionnaire 2 and before they begin Questionnaire 3.

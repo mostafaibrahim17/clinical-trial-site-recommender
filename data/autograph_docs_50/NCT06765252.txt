@@ -1,0 +1,10 @@
+Study: NCT06765252
+
+Summary:
+The goal of this observational study is to study the effect of a single nucleotide polymorphism in the CES1 gene (rs2244613) on capecitabine-induced toxicity in Egyptian cancer patients. This study will help in understanding the interindividual variability in the CES1 gene and the effect of a single nucleotide polymorphism in this gene (rs2244613) on capecitabine-induced toxicity in participants already taking capecitabine-based chemotherapy as part of their regular medical care.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Patients with breast or colorectal cancer receiving capecitabine-based chemotherapy~* Age \> 18 years~* ECOG PS 0-2.~Exclusion Criteria:~* Patients treated with irinotecan~* Lack of physical integrity of the upper gastrointestinal tract~* Patients with malabsorption syndrome~* Patients having inability to take oral medication~* Patients with poor performance status~* Patients with chronic diarrhea as ulcerative colitis or Crohn's disease
+
+Interventions:
+- (DRUG) Capecitabine-based chemotherapy: Participants receiving capecitabine in an oral dose of 1,000-1,250 mg/m2 twice daily for the first 14 days of each 21-day cycle.

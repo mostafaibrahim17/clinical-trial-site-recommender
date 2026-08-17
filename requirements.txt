@@ -1,0 +1,8 @@
+python-arango
+openai
+python-dotenv
+requests
+pandas
+networkx
+matplotlib
+numpy

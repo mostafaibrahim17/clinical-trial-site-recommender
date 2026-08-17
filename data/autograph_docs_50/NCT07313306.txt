@@ -1,0 +1,10 @@
+Study: NCT07313306
+
+Summary:
+This study will examine unmet exercise needs among patients with metastatic breast cancer (MBC) at UNC and assess whether participation in Get Real and Heel (GRH) can increase physical activity. The proposed research aims to improve multiple domains of well-being, quality of life, physical function, social support and reduce social isolation through a community based exercise intervention. By leveraging underutilized University of North Carolina Chapel Hill (UNC) resources, this work seeks to reduce barriers to accessibility, awareness, and appropriateness of exercise programming for this underserved population. Findings will help close the gap between patients' exercise needs, interest, and participation, with potential benefits for symptoms, functioning, and quality of life.
+
+Eligibility Criteria:
+In order to participate in this study a subject must meet all of the eligibility criteria outlined below.~Inclusion Criteria:~* Written informed consent obtained to participate in the study and HIPAA authorization for release of personal health information.~* Subjects are willing and able to comply with study procedures based on the judgement of the investigator or protocol designee.~* Age \> 18 years at the time of consent.~* Diagnosis of metastatic breast cancer within two years of consent date~* Receives medical clearance from clinical team for moderate intensity exercise programming~* Indicates intent to receive ongoing cancer care at the enrolling institution~* English Speaking - program and measures are in English and not practicably translatable for a study this size.~Exclusion Criteria:~* Currently on hospice.~* Bed-bound status or other contraindication to exercise~* Participation in GRH since their diagnosis with MBC
+
+Interventions:
+- (BEHAVIORAL) The Real and Heel (GRH): The Get Real and Heel (GRH) program is a 16-week exercise intervention developed at the University of North Carolina at Chapel Hill (UNC).

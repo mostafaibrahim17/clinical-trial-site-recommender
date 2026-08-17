@@ -1,0 +1,10 @@
+Study: NCT06772935
+
+Summary:
+Electroacupuncture treatment of peripheral neuropathy after taxane chemotherapy for breast cancer
+
+Eligibility Criteria:
+Inclusion Criteria:~* Breast cancer patients diagnosed by pathology;~  * EOOG score is 0 or 1;~    * The age range for enrollment is between 18 and 75 years old; ④ Accept chemotherapy regimens based on taxane drugs (alone or in combination);~      ⑤ Previously received taxane chemotherapy for more than 6 months;~      ⑥ According to the National Cancer Institute (NCI) Common Terminology for Adverse Events (CTCAE) 5.0, reporting CIPN symptoms of grade 1 or higher for more than 2 weeks;~      ⑦ Voluntarily participate in this clinical trial and sign the informed consent form;~     * Accept regular follow-up visits; ⑨ There is complete pathological data available.~Exclusion Criteria:~* Non breast cancer patients;~  * Received electroacupuncture treatment within 6 months prior to the start of the study;~    * Patients who experience intolerable toxic side effects during standard dose chemotherapy and terminate the chemotherapy cycle;~      * Prior to enrollment, there was a history of peripheral neuropathy;~        * Unstable heart disease or myocardial infarction within the first 6 months of the study;~          ⑥ Active skin diseases or surface skin ulcers or infections that cannot tolerate electroacupuncture treatment;~          ⑦ Uncontrolled epilepsy patients with uncontrolled seizures;~          ⑧ Merge with other malignant tumor patients;~          ⑨ Pregnancy and lactation period;~          ⑩ Refusal to join clinical trial patients
+
+Interventions:
+- (BEHAVIORAL) Electro-acupuncture: A method of acupuncture that combines acupuncture with a certain frequency of electrical stimulation. Electrical stimulation is a mild level of stimulation intensity that is acceptable to the human body.

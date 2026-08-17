@@ -1,0 +1,263 @@
+{
+  "recommended_sites": [
+    {
+      "name": "Avera Cancer Institute-Aberdeen",
+      "city": "Aberdeen",
+      "state": "South Dakota",
+      "country": "United States",
+      "success_score": 0.97,
+      "prevalence": 9.3,
+      "median_age": 42.2,
+      "has_geo_data": true,
+      "composite_score": 0.8474499651432036,
+      "matched_similarity": 0.8258570432662964,
+      "prevalence_score": 0.62,
+      "age_score": 0.956
+    },
+    {
+      "name": "Marin Cancer Center",
+      "city": "Greenbrae",
+      "state": "California",
+      "country": "United States",
+      "success_score": 0.91,
+      "prevalence": 10.5,
+      "median_age": 37.5,
+      "has_geo_data": true,
+      "composite_score": 0.8445499651432037,
+      "matched_similarity": 0.8258570432662964,
+      "prevalence_score": 0.7,
+      "age_score": 0.95
+    },
+    {
+      "name": "CAMC Cancer Center",
+      "city": "Charleston",
+      "state": "West Virginia",
+      "country": "United States",
+      "success_score": 0.92,
+      "prevalence": 9.9,
+      "median_age": 39.1,
+      "has_geo_data": true,
+      "composite_score": 0.8443499651432037,
+      "matched_similarity": 0.8258570432662964,
+      "prevalence_score": 0.66,
+      "age_score": 0.982
+    },
+    {
+      "name": "Covenant Medical Center",
+      "city": "Waterloo",
+      "state": "Iowa",
+      "country": "United States",
+      "success_score": 0.99,
+      "prevalence": 8,
+      "median_age": 39.4,
+      "has_geo_data": true,
+      "composite_score": 0.8409166318098703,
+      "matched_similarity": 0.8258570432662964,
+      "prevalence_score": 0.5333333333333333,
+      "age_score": 0.988
+    },
+    {
+      "name": "Monument Health Rapid City Hospital",
+      "city": "Rapid City",
+      "state": "South Dakota",
+      "country": "United States",
+      "success_score": 0.99,
+      "prevalence": 7.5,
+      "median_age": 35.3,
+      "has_geo_data": true,
+      "composite_score": 0.8219499651432036,
+      "matched_similarity": 0.8258570432662964,
+      "prevalence_score": 0.5,
+      "age_score": 0.9059999999999999
+    },
+    {
+      "name": "Oneonta FoxCare Center",
+      "city": "Oneonta",
+      "state": "New York",
+      "country": "United States",
+      "success_score": 0.94,
+      "prevalence": 7.7,
+      "median_age": 40.8,
+      "has_geo_data": true,
+      "composite_score": 0.8213166318098704,
+      "matched_similarity": 0.8258570432662964,
+      "prevalence_score": 0.5133333333333333,
+      "age_score": 0.9840000000000001
+    },
+    {
+      "name": "Rhode Island Hospital",
+      "city": "Providence",
+      "state": "Rhode Island",
+      "country": "United States",
+      "success_score": 0.97,
+      "prevalence": 7.2,
+      "median_age": 42.1,
+      "has_geo_data": true,
+      "composite_score": 0.8197499651432036,
+      "matched_similarity": 0.8258570432662964,
+      "prevalence_score": 0.48000000000000004,
+      "age_score": 0.958
+    },
+    {
+      "name": "Solinsky Center for Cancer Care",
+      "city": "Hooksett",
+      "state": "New Hampshire",
+      "country": "United States",
+      "success_score": 0.93,
+      "prevalence": 7.7,
+      "median_age": 39.4,
+      "has_geo_data": true,
+      "composite_score": 0.8189166318098704,
+      "matched_similarity": 0.8258570432662964,
+      "prevalence_score": 0.5133333333333333,
+      "age_score": 0.988
+    },
+    {
+      "name": "DF/BWCC at Milford Regional Medical Center",
+      "city": "Milford",
+      "state": "Massachusetts",
+      "country": "United States",
+      "success_score": 0.97,
+      "prevalence": 8.5,
+      "median_age": 43.7,
+      "has_geo_data": true,
+      "composite_score": 0.8149745745499928,
+      "matched_similarity": 0.776403546333313,
+      "prevalence_score": 0.5666666666666667,
+      "age_score": 0.9259999999999999
+    },
+    {
+      "name": "Decatur Memorial Hospital",
+      "city": "Decatur",
+      "state": "Illinois",
+      "country": "United States",
+      "success_score": 0.96,
+      "prevalence": 7,
+      "median_age": 37.9,
+      "has_geo_data": true,
+      "composite_score": 0.8140832984765372,
+      "matched_similarity": 0.8258570432662964,
+      "prevalence_score": 0.4666666666666667,
+      "age_score": 0.958
+    }
+  ],
+  "top_sites": [
+    {
+      "name": "Avera Cancer Institute-Aberdeen",
+      "city": "Aberdeen",
+      "state": "South Dakota",
+      "country": "United States",
+      "success_score": 0.97,
+      "prevalence": 9.3,
+      "median_age": 42.2,
+      "has_geo_data": true,
+      "composite_score": 0.8474499651432036,
+      "matched_similarity": 0.8258570432662964,
+      "prevalence_score": 0.62,
+      "age_score": 0.956
+    },
+    {
+      "name": "Marin Cancer Center",
+      "city": "Greenbrae",
+      "state": "California",
+      "country": "United States",
+      "success_score": 0.91,
+      "prevalence": 10.5,
+      "median_age": 37.5,
+      "has_geo_data": true,
+      "composite_score": 0.8445499651432037,
+      "matched_similarity": 0.8258570432662964,
+      "prevalence_score": 0.7,
+      "age_score": 0.95
+    },
+    {
+      "name": "CAMC Cancer Center",
+      "city": "Charleston",
+      "state": "West Virginia",
+      "country": "United States",
+      "success_score": 0.92,
+      "prevalence": 9.9,
+      "median_age": 39.1,
+      "has_geo_data": true,
+      "composite_score": 0.8443499651432037,
+      "matched_similarity": 0.8258570432662964,
+      "prevalence_score": 0.66,
+      "age_score": 0.982
+    }
+  ],
+  "evidence_passages": [
+    {
+      "study": "PALbociclib CoLlaborative Adjuvant Study",
+      "similarity": 0.826,
+      "passage": "This is a prospective, two arm, international, multicenter, randomized, open-label Phase III study evaluating the addition of 2 years of palbociclib to standard adjuvant endocrine therapy for patients with HR+ / HER2- early breast cancer (EBC).~The purpose of the PALLAS study is to determine whether"
+    },
+    {
+      "study": "A Real-life Study to Understand the Use and Effects of Palbociclib in US Patients With Breast Cancer",
+      "similarity": 0.81,
+      "passage": "Palbociclib, the first oral CDK4/6 inhibitor, is an approved medicine indicated for the treatment of a kind of advanced/metastatic breast cancer (MBC), called hormone receptors positive (HR+)/ Human epidermal growth factor receptor 2 negative (HER2-) disease. Palbociclib is given orally in combinati"
+    },
+    {
+      "study": "Abemaciclib, Palbociclib or Dalpiciclib Combined with Endocrine Therapy As First-line Treatment in HR Positive, HER2 Negative Unresectable or Metastatic Breast Cancer",
+      "similarity": 0.809,
+      "passage": "A multi-center, real world study to evaluate the clinical outcomes and safety of Abemaciclib, Palbociclib or Dalpiciclib combined with endocrine therapy as first-line treatment in HR Positive, HER2 Negative unresectable or metastatic Breast Cancer."
+    }
+  ],
+  "reasoning": "The top-ranked site, Avera Cancer Institute-Aberdeen, edges out Marin Cancer Center primarily due to its higher site success score, which compensates for Marin\u2019s advantage in disease prevalence. While Marin has a stronger disease prevalence, indicating more potential eligible patients, Avera\u2019s demonstrated track record of site performance increases confidence in trial execution. CAMC Cancer Center, though strong in age match, ranks slightly lower overall because its site success and disease prevalence scores do not surpass those of the top two sites. All sites include geographic data, which supports reliable feasibility assessment. Regarding dosage, the matched trials use standard dosing regimens typical for this drug class.",
+  "dosage_lines": [
+    "Abemaciclib: 150 mg twice daily (BID), orally, for 20-24 weeks in combination with other drugs such as Z-endoxifen or ARV-471 [1]",
+    "Capivasertib: 400 mg orally, twice daily, 4 days on and 3 days off per cycle",
+    "Zanidatamab: IV infusion doses of 1800 mg (<70 kg) or 2400 mg (\u226570 kg) every 3 weeks [1]"
+  ],
+  "dosage_raw": "# Drug Dosages Used in Trials Similar to PALbociclib CoLlaborative Adjuvant Study and Related Breast Cancer Trials\n\nThe user is interested in the drug dosages used in clinical trials involving Palbociclib (and similar CDK4/6 inhibitors like Abemaciclib, Dalpiciclib), combined with endocrine therapy for hormone receptor-positive (HR+), HER2-negative breast cancer, especially in adjuvant or metastatic settings.\n\n## Summary of Relevant Trials and Dosages\n\n### 1. Palbociclib, Abemaciclib, Dalpiciclib Combined with Endocrine Therapy\n- The context does not provide explicit dosages for Palbociclib or Dalpiciclib in the trials mentioned.\n- However, dosing information is available for **Abemaciclib** when used in combination with endocrine therapy in some closed arms of trials:\n  - Abemaciclib: **150 mg twice daily (BID), orally**, for 20-24 weeks in combination with other drugs such as Z-endoxifen or ARV-471 [1].\n\n### 2. Ribociclib Combined with Endocrine Therapy in First-Line Advanced HR+/HER2- Breast Cancer\n- Dosage for **Ribociclib** (a similar CDK4/6 inhibitor) as in study NCT05452213:\n  - **600 mg once daily**, oral, for **21 consecutive days followed by 7 days off** (28-day cycle).\n  - Given in combination with standard endocrine therapy as per summary of product characteristics (SmPC) or local standards [2][CITE:12362085931503426330_1].\n\n### 3. Fulvestrant in Combination with Other Agents (e.g., Capivasertib, Ribociclib)\n- Fulvestrant administration routes (intramuscular or intravenous) are important considerations due to bleeding risks in patients on anticoagulants.\n- Adjuvant trials involving Fulvestrant often use it in combination with agents like Capivasertib or Ribociclib:\n  - Capivasertib: **400 mg orally, twice daily**, 4 days on and 3 days off per cycle.\n  - Fulvestrant: administered intravenously or intramuscularly as per trial protocols [3][4].\n\n### 4. Abemaciclib Specific Dosages\n- In closed arms combining Abemaciclib with ARV-471 or Endoxifen:\n  - Abemaciclib: **150 mg BID orally** for 20-24 weeks [1].\n\n### 5. Other Relevant Drugs and Their Dosages\n- Zanidatamab: IV infusion doses of 1800 mg (<70 kg) or 2400 mg (\u226570 kg) every 3 weeks [1].\n- Fulvestrant dosing details are not numerically specified in the provided context but are typically administered by intramuscular injection, and protocols often exclude patients on anticoagulants [3][4].\n\n## Commentary\n\n- While explicit dosing for Palbociclib was not retrieved from the context, ribociclib and abemaciclib\u2014both CDK4/6 inhibitors like palbociclib\u2014are used in doses of 600 mg daily (ribociclib, cyclical dosing) and 150 mg twice daily (abemaciclib, continuous dosing).\n- Fulvestrant dosing, commonly in advanced HR+/HER2- breast cancer, is by intramuscular route with specific eligibility criteria due to bleeding risk.\n- Capivasertib dosing (an investigational AKT inhibitor) combined with fulvestrant is 400 mg orally BID, with a 4-days-on/3-days-off schedule [3].\n- Dalpiciclib dosing was not found in the context, though it is a CDK4/6 inhibitor closely related to palbociclib/abemaciclib.\n  \nThus, clinical trials similar to those involving palbociclib generally administer:\n\n| Drug              | Dosage and Schedule                             | Route                |\n|-------------------|------------------------------------------------|----------------------|\n| Palbociclib       | Not explicitly given in context                 | Oral, typical 125 mg/day, 3 weeks on, 1 week off (general knowledge)|\n| Ribociclib        | 600 mg once daily, 21 days on, 7 days off cycle| Oral                 |\n| Abemaciclib       | 150 mg twice daily continuously (BID)          | Oral                 |\n| Fulvestrant       | Intramuscular or intravenous (dose details not specified) | IM or IV             |\n| Capivasertib      | 400 mg twice daily, 4 days on, 3 days off       | Oral                 |\n\n## Conclusion\n\n- The specific doses for palbociclib in similar adjuvant or metastatic trials are not in the provided data.\n- Ribociclib (600 mg daily, 21/7 schedule) and abemaciclib (150 mg BID continuous) are used with standard endocrine therapy in comparable clinical trials.\n- Capivasertib is administered orally at 400 mg BID on an intermittent schedule with Fulvestrant.\n- Fulvestrant is given intramuscularly or intravenously, with careful exclusion of patients on anticoagulants.\n- This synthesis reflects common regimens in trials for HR+/HER2- breast cancer with CDK4/6 inhibitors and endocrine therapies [3][2][4][1].\n\n---\n\n# References\n\n- [3] Dose and schedule of Fulvestrant, Capivasertib in breast cancer trials.\n- [2] Ribociclib dosing with endocrine therapy in first-line advanced breast cancer.\n- [4] Fulvestrant, Ribociclib, and Inavolisib combination study.\n- [1] Abemaciclib dose in combination with other agents for breast cancer.\n\nIf more precise palbociclib dosing from specific trials is required, additional data or trial protocols would be needed as this context does not specify it.",
+  "confidence": "high",
+  "confidence_notes": "strong match, sufficient sites, complete data across all variables",
+  "similar_studies": [
+    {
+      "nct_id": "NCT02513394",
+      "title": "PALbociclib CoLlaborative Adjuvant Study",
+      "phase": "PHASE3",
+      "summary": "This is a prospective, two arm, international, multicenter, randomized, open-label Phase III study evaluating the addition of 2 years of palbociclib to standard adjuvant endocrine therapy for patients with HR+ / HER2- early breast cancer (EBC).~The purpose of the PALLAS study is to determine whether the addition of palbociclib to adjuvant endocrine therapy will improve outcomes over endocrine therapy alone for HR+/HER2- early breast cancer. Assessment of a variety of correlative analysis, including evaluation of the effect of palbociclib in genomically defined tumor subgroups, is planned.",
+      "eligibility_criteria": "Inclusion Criteria:~* Signed informed consent prior to study specific procedures.~* Age \u226518 years (or per national guidelines).~* Pre- and postmenopausal women or men with Stage II (Stage IIA limited to max. 1000 patients) or Stage III early invasive breast cancer~* Patients with multicentric and/or multifocal and/or bilateral early invasive breast cancer are eligible if all histopathologically examined tumors meet pathologic criteria for ER+ and/or PR+ and HER2-.~* Patients must have histologically confirmed ER+ and/or PR+, HER2-, early invasive breast cancer.~* Patients must have undergone adequate (definitive) breast surgery for the current malignancy.~FFPE tumor tissue block must be confirmed to be received at the central sample repository prior to randomization.~* ECOG performance status 0-1.~* Patients must be able and willing to swallow and retain oral medication.~* Serum or urine pregnancy test must be negative in premenopausal women within 14 days of randomization, or in women with amenorrhea of less than 12 months at time of randomization.~* Patients who received neo/adjuvant therapy must be after last dose of chemotherapy and/or biologic therapy and must have sufficient resolution of side effects.~* Patients who received breast/axilla/post-mastectomy chest wall radiotherapy must be after last dose of radiotherapy and must have sufficient resolution of side effects.~* Patients must have sufficient resolution of any surgical side effects (no active wound healing complications).~-Patients must either be initiating or have already started adjuvant hormonal treatment. -~* Patients who already received neo/adjuvant endocrine therapy are eligible as long as they are enrolled within 12 months of initial histological diagnosis and after completing no more than 6 months of adjuvant endocrine therapy.~* Absolute neutrophil count \u2265 1,500/\u00b5L~* Platelets \u2265 100,000/ mm3~* Hemoglobin \u2265 10g/dL~* Total serum bilirubin \u2264 ULN; or total bilirubin \u2264 3.0 \u00d7 ULN with direct bilirubin within normal range in patients with documented Gilbert's Syndrome.~* Aspartate amino transferase (AST or SGOT) and alanine amino transferase (ALT or SGPT) \u2264 1.5 \u00d7 institutional ULN.~* Serum creatinine below the upper limit of the institutional normal range (ULN) or creatinine clearance \u2265 60 mL/min/1.73 m2 for patients with serum creatinine levels above institutional ULN.~Exclusion Criteria:~* Concurrent therapy with other Investigational Products.~* Prior therapy with any CDK inhibitor.~* Patients with Stage I or IV breast cancer are not eligible.~* History of allergic reactions attributed to compounds of chemical or biologic composition similar to palbociclib.~* Patients receiving any medications or substances that are potent inhibitors or inducers of~* CYP3A isoenzymes within 7 days of randomization.~* Uncontrolled intercurrent illness that would limit compliance with study requirements.~* Pregnant women, or women of childbearing potential without a negative pregnancy test within 14 days prior to randomization.~* Patients with a history of any malignancy are ineligible~* Patients who previously received endocrine therapy within 5 years prior to diagnosis of the current malignancy.~* Patients on antiretroviral therapy.~* Patients with clinically significant history of any chronic liver disease.~* Patients receiving concurrent exogenous hormone therapy (topical vaginal estrogen therapy is allowable).",
+      "similarity": 0.8258570432662964
+    },
+    {
+      "nct_id": "NCT06495164",
+      "title": "A Real-life Study to Understand the Use and Effects of Palbociclib in US Patients With Breast Cancer",
+      "phase": null,
+      "summary": "Palbociclib, the first oral CDK4/6 inhibitor, is an approved medicine indicated for the treatment of a kind of advanced/metastatic breast cancer (MBC), called hormone receptors positive (HR+)/ Human epidermal growth factor receptor 2 negative (HER2-) disease. Palbociclib is given orally in combination with hormonal therapies.~The purpose of this study is to better understand how Palbociclib combination is used in real-life conditions and its clinical impact compared with hormonal therapy. The study will also evaluate how long patients take the different CDK 4/6 inhibitor drugs and whether using those drugs impacts the use of chemotherapy later.~Male and female patients aged 18 years old or more presenting the following conditions will be selected for the study:~* HR+/HER2- MBC~* First treatment with Palbociclib, hormonal therapy, or other CDK4/6 inhibitors after MBC diagnosis The study will use data without personal identity, which were obtained from medical records in routine clinical practice.",
+      "eligibility_criteria": "Patients are eligible for the study if they were 18 years of age or older at MBC diagnosis, had HR+/HER2- confirmed and initiated first line therapy (CDK4/6i, ET, CT, or other) in the metastatic setting during the period from February 2015 through June 2022 or data cutoff.",
+      "similarity": 0.8101332783699036
+    },
+    {
+      "nct_id": "NCT06344780",
+      "title": "Abemaciclib, Palbociclib or Dalpiciclib Combined with Endocrine Therapy As First-line Treatment in HR Positive, HER2 Negative Unresectable or Metastatic Breast Cancer",
+      "phase": null,
+      "summary": "A multi-center, real world study to evaluate the clinical outcomes and safety of Abemaciclib, Palbociclib or Dalpiciclib combined with endocrine therapy as first-line treatment in HR Positive, HER2 Negative unresectable or metastatic Breast Cancer.",
+      "eligibility_criteria": "Inclusion Criteria:~1. age \\>= 18 years old;~2. Patients who were diagnosed as HR Positive, HER2 Negative recurrent unresectable (local or regional) or stage IV (M1) breast cancer between June 2020 to October 2023;~3. Received CDK4/6 inhibitors(Abemaciclib, Palbociclib or Dalpiciclib) as first-line therapy for at least one cycle;~4. Complete medical history was available.~Exclusion Criteria:~1\\. Medical history was incomplete.",
+      "similarity": 0.8089513182640076
+    },
+    {
+      "nct_id": "NCT05069038",
+      "title": "Clinical Trial Assessing the Safety of Neoadjuvant Palbociclib in Combination With Endocrine Therapy",
+      "phase": "PHASE2",
+      "summary": "Patients with estrogen receptor positive (ER+) and/or progesterone receptor positive (PR+) breast cancer do not achieve good responses with pre-operative chemotherapy. The sensitivity of breast cancer to chemotherapy is often determined by the underlying gene expression pattern and the molecular subtype of the tumor. In addition, not all patients tolerate chemotherapy well. Pre-operative endocrine therapy has emerged as an effective strategy to improve outcomes in patients with early-stage hormone receptor positive breast cancer. This study will assess the role of neo-adjuvant palbociclib (CDK 4/6 inhibitor) in combination with letrozole (aromatase inhibitor) +/-Goserelin (GnRH analogue) to improve overall response and surgical feasibility in post and pre-menopausal hormone receptor positive and Her-2 negative subjects with stage IIA-IIIC breast cancer.",
+      "eligibility_criteria": "Inclusion Criteria:~1. Histologically confirmed locally advanced stage ER+ and/or PR+ and HER2- breast cancer \\[by ASCO/CAP guidelines: primary tumor size 2 cm or greater OR if primary tumor size is \\<2 cm with lymph node involvement (Stage II)\\] who are candidates for palbociclib in combination with concurrent ovarian suppression and letrozole per treating physician.~2. At least 19 years of age.~3. ECOG performance status \u2264 2 (see Appendix A)~4. Normal bone marrow and organ function as defined below:~   1. Absolute neutrophil count \u2265 1,500/mcl~  2. Platelets \u2265 100,000/mcl~  3. Total bilirubin \u2264 IULN or total bilirubin \u2264 3.0 x IULN with direct bilirubin within normal range in subjects with documented Gilbert's syndrome~  4. AST(SGOT)/ALT(SGPT) \u2264 1.5 x IULN (up to 5 x IULN in subjects with liver disease)~  5. Creatinine \u2264 IULN OR creatinine clearance \u2265 60 mL/min/1.73 m2 for subjects with serum creatinine levels above institutional normal~5. Pre-menopausal subjects defined by: Age \\<60 with no prior bilateral oophorectomy and having menses in the preceding 12 months in the absence of taking chemotherapy, tamoxifen or torimefene or ovarian suppression. If any of these agents were used, measurements of FSH and estradiol have to be made to determine menopausal status.~6. Post menopausal subjects defined by: Age \\>60 Or absence of menstruation in the preceding 12 months without taking chemotherapy, tamoxifen, torimefene or ovarian suppression. If any of these agents were used, measurements of FSH and estradiol have to be made to determine menopausal status. If none of these are applicable fully, subject may be judged premenopausal according to local policies.~7. Participating subjects must agree to use adequate contraception for the duration of protocol treatment and for 6 months after the last treatment with palbociclib. Adequate contraception is defined as one highly effective form (i.e. abstinence, (fe)male sterilization OR two effective forms (e.g. non-hormonal IUD and condom / occlusive cap with spermicidal foam / gel / film / cream / suppository). Should a woman become pregnant or suspect she is pregnant while participating in this study, she must inform her treating physician immediately.~8. Able to swallow and retain oral medication.~9. Ability to understand and willingness to sign an IRB approved written informed consent document (or that of legally authorized representative, if applicable).~Exclusion Criteria:~1. Prior therapy with any CDK inhibitor.~2. Currently receiving any other investigational agents.~3. Currently receiving exogenous hormone therapy (topical vaginal estrogen therapy is allowed).~4. Known metastatic disease~5. A history of allergic reactions attributed to compounds of similar chemical or biologic composition to palbociclib or other agents used in the study.~6. Receiving any medications or substances that are potent inhibitors or inducers of CYP3A isoenzymes within 7 days prior to registration.~7. Clinically significant history of liver disease as defined by active hepatitis and/or cirrhosis with compromised liver function.~8. A condition that would interfere with enteric absorption.~9. Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, or cardiac arrhythmia.~10. Pregnant and/or breastfeeding. Women of childbearing potential must have a negative pregnancy test within 7 days of study entry.~11. Known HIV-positivity on combination antiretroviral therapy because of the potential for pharmacokinetic interactions with palbociclib. In addition, these subjects are at increased risk of lethal infections when treated with marrow-suppressive therapy.~12. Male Sex",
+      "similarity": 0.7836402058601379
+    },
+    {
+      "nct_id": "NCT02764541",
+      "title": "Palbociclib and Endocrine Therapy for LObular Breast Cancer Preoperative Study (PELOPS)",
+      "phase": "PHASE2",
+      "summary": "This research study is evaluating how well Breast Cancer responds to preoperative treatment with Endocrine treatment in combination with a drug called Palbociclib or Endocrine treatment alone as possible treatments for Hormone Receptor Positive Breast Cancer.",
+      "eligibility_criteria": "Inclusion Criteria:~* Patients must have Stage I to III histologically confirmed invasive carcinoma of the breast. A minimum tumor size of at least 1.5 cm determined by physical exam or imaging (whichever is larger) is required.~* Patients must have histologically confirmed hormone receptor positive (ER and/or PR), HER2 negative, invasive breast cancer. ER, PR and HER2 measurements should be performed according to institutional guidelines, in a CLIA-approved setting in the US or certified laboratories for Non-US regions. Cut-off values for positive/negative staining should be in accordance with current ASCO/CAP (American Society of Clinical Oncology/College of American Pathologists) guidelines. Central confirmation is not required for ER, PR, or HER statuses.~* Patients with equivocal HER2 in situ hybridization results according to current ASCO/CAP guidelines are allowed, as long as the clinician has determined that they should be treated as HER2 negative.~* For the window phase: Patients must have histologically confirmed invasive lobular carcinoma or invasive ductal carcinoma. No central confirmation of histological subtype is necessary for enrollment.~* For the treatment phase: Patients with any histological subtype are eligible.~* Women 18 years of age. Men are not eligible.~* ECOG performance status 0 or 1~* Required laboratory values:~  * Absolute neutrophil count \u2265 1,500/mm3~ * Platelets \u2265 100,000/mm3~ * Hemoglobin \u2265 10g/dL~ * Total serum bilirubin \u2264 ULN; or total bilirubin \u2264 3.0 \u00d7 ULN with direct bilirubin within normal range in patients with documented Gilbert's Syndrome~ * Aspartate amino transferase (AST or SGOT) and alanine amino transferase (ALT or SGPT) \u2264 2.0 \u00d7 institutional ULN~ * Serum creatinine within normal institutional limits or creatinine clearance \u2265 60 mL/min/1.73 m2 for patients with serum creatinine levels above institutional ULN~* Postmenopausal patients defined as no spontaneous menses \u22651 year (12 months) or post bilateral surgical oophorectomy. Premenopausal patients are eligible to participate provided they are considered in chemical menopause. Premenopausal patients should receive ongoing treatment with LHRH agonists (goserolin or leuprolide). Premenopausal patients must be enrolled directly into the treatment phase of the study.~* Patient must agree to the required research biopsies at baseline and after the two-week treatment with endocrine therapy in the initial part of the study (window phase); or at baseline and after two-week treated with endocrine therapy plus or minus palbociclib for those patients enrolled directly into the treatment phase of the study.~* Patients must be able and willing to swallow and retain oral medication without a condition that would interfere with enteric absorption.~* Breast imaging should include imaging of the ipsilateral axilla. For subjects with a clinically negative axilla, a sentinel lymph node biopsy will be performed either before or after preoperative therapy at the discretion of the subject's physicians. For subjects with a clinically positive axilla, a needle aspiration, core biopsy or SLN procedure will be performed to determine the presence of metastatic disease in the lymph nodes.~* Patients with multifocal or multicentric disease are eligible if the treating clinician has determined the patient should be treated as ER+ and HER2- negative.~* Bilateral breast cancers are allowed if the treating clinician has determined the patient should be treated as ER+ and HER2- negative.~* Serum or urine pregnancy test must be negative in women judged premenopausal within 7 days of randomization, or in women with amenorrhea of less than 12 months at time of randomization. Pregnancy testing does not need to be pursued in patients who are judged as postmenopausal before randomization, as determined by local practice, or who have undergone bilateral oophorectomy, total hysterectomy, or bilateral tubal ligation.~* Premenopausal patients must agree to use adequate contraception for the duration of protocol treatment and for 6 months after the last treatment with palbociclib. Adequate contraception is defined as one highly effective form (i.e. abstinence, male or female sterilization) OR two effective forms (e.g. non-hormonal IUD and condom/occlusive cap with spermicidal foam / gel / film / cream/ suppository). Hormonal contraceptive methods are not allowed.~* Patients with a history of ipsilateral or contralateral DCIS are eligible.~* Patients may concurrently receive bisphosphonates or rank ligand inhibitors while on this study if necessary for treatment or prevention of osteopenia or osteoporosis. Prior treatment with LHRH agonists is allowed for premenopausal women. Topical vaginal estrogen therapy is allowable.~* Ability to understand and the willingness to sign a written informed consent document.~Exclusion Criteria:~* Concurrent therapy with other Investigational Products.~* Prior therapy with any CDK inhibitor.~* Patients with Stage IV breast cancer are not eligible. Baseline staging to document absence of metastatic disease is not required, however is recommended as determined by institutional practice (in patients where there may be a reasonable suspicion of advanced disease e.g., large tumors, clinically positive axillary lymph nodes, signs and symptoms). If performed, reports of these examinations must be available. Examination type for staging, i.e. X-ray, sonography, bone scans, CT, MRI, and/or PET-CT, is at the discretion of the investigator.~* History of allergic reactions attributed to compounds of chemical or biologic composition similar to palbociclib.~* Patients receiving any medications or substances that are potent inhibitors or inducers of CYP3A isoenzymes within 7 days of randomization~* Uncontrolled illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, diabetes, or psychiatric illness/social situations that would limit compliance with study requirements. Ability to comply with study requirements is to be assessed by each investigator at the time of screening for study participation.~* Pregnant women, or women of childbearing potential without a negative pregnancy test (serum or urine) within 7 days prior to randomization, irrespective of the method of contraception used, are excluded from this study because the effect of palbociclib on a developing fetus is unknown. Breastfeeding must be discontinued prior to study entry.~* Patients with a history of any malignancy are ineligible except for the following circumstances:~  * Patients with a malignancy history other than invasive breast cancer are eligible if they have no active malignancy and are deemed by the investigator to be at low risk for recurrence of that malignancy.~ * Patients with the following cancers are eligible: ductal carcinoma in situ of the breast, cervical cancer in situ, and non-metastatic non-melanomatous skin cancers.~* Patients on combination antiretroviral therapy, i.e. those who are HIV-positive, are ineligible because of the potential for pharmacokinetic interactions or increased immunosuppression with palbociclib. HIV testing is not required, but patients must not be known to be HIV-positive.~* Patients receiving concurrent exogenous hormone therapy (hormone replacement therapy, oral or any other hormonal contraceptives such as hormonal contraceptive coil are not eligible.~* Patients are not eligible if they have previously received endocrine therapy within 5 years prior to diagnosis of the current malignancy. This includes use for prophylactic reasons, including treatment of osteoporosis or cancer prevention with tamoxifen, raloxifene, or AI.",
+      "similarity": 0.776403546333313
+    }
+  ],
+  "stats": {
+    "protocol_top_similarity": 0.826,
+    "vector_hits": 5,
+    "traversal_depth": 1,
+    "sites_ranked": 10,
+    "execution_seconds": 22.0
+  }
+}
