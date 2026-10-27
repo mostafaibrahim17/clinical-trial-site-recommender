@@ -1,0 +1,14 @@
+Study: NCT06760637
+
+Summary:
+The purpose of this study is to determine the safety and efficacy of PF-07220060 with letrozole compared to approved treatments (ie, palbociclib, ribociclib or abemaciclib with letrozole) in people with breast cancer:~* HR-positive (breast cancer cells that need estrogen or progesterone to grow)~* HER2-negative (cells that have a small amount or none of a protein called HER2 on their surface);~* locally advanced (that has spread from where it started to nearby tissue or lymph nodes) or metastatic disease (the spread of cancer to other places in the body)~* who have not received any prior systemic anti-cancer treatment for advanced/metastatic disease.~Approximately half of the participants will receive PF-07220060 plus letrozole while the other half of participants will receive the investigator's choice of treatment plus letrozole.~The study team will monitor how each participant is doing with the study treatment during regular visits at the study clinic.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Histological confirmation of breast cancer with evidence of locally advanced or metastatic disease, which is not amenable to surgical resection or radiation therapy with curative intent.~* Documented estrogen receptor (ER) and/or progesterone receptor (PR)-positive tumor~* Documented HER2-negative tumor~* Previously untreated with any systemic anticancer therapy for their locally advanced or metastatic disease.~* Measurable disease or non-measurable bone only disease as defined by RECIST version 1.1~Exclusion Criteria:~* In visceral crisis at risk of immediately life-threatening complications in the short term.~* Current or past history of central nervous system metastases.~* Have received prior (neo)adjuvant endocrine therapy (ET) and had recurrence during or within 12 months after the last dose of ET.~* Have received prior (neo)adjuvant CDK4/6i and had recurrence during or within 12 months after the last dose of CDK4/6i.~* Inadequate renal function, hepatic dysfunction, or hematologic abnormalities.
+
+Interventions:
+- (DRUG) PF-07220060: CDK4 inhibitor
+- (DRUG) letrozole: endocrine therapy
+- (DRUG) abemaciclib: CDK4/6 inhibitor
+- (DRUG) palbociclib: CDK4/6 inhibitor
+- (DRUG) ribociclib: CDK4/6 inhibitor

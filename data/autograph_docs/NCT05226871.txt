@@ -1,0 +1,13 @@
+Study: NCT05226871
+
+Summary:
+The purpose of this clinical trial is to provide study medicine(s) and learn about their safety. This study is seeking participants who:~* Have benefited from ongoing study treatment as determined by the study doctor in a Pfizer-sponsored palbociclib Parent Study~* Must agree to follow the reproductive criteria~* Are willing and able to comply with all scheduled visits, treatment plans, and other study procedures~* Can give signed informed consent documents~Participants in this study will continue to receive treatment as they were in the parent study. The time by which participants will take part in this study is retrospective (after completed parent study). We will examine the experiences of people receiving the study medicine(s). This will help us determine if the study medicine(s) are safe. During this time, the participants will be monitored for the safety of the study medicine(s).
+
+Eligibility Criteria:
+Inclusion Criteria:~* Any participant who is receiving study treatment and deriving clinical benefit as determined by the investigator in a Pfizer-sponsored palbociclib Parent Study~* Participants must agree to follow the reproductive criteria~* Participants who are willing and able to comply with all scheduled visits, treatment plans, and other study procedures~* Capable of giving signed informed consent which includes compliance with the requirements and restrictions listed in the informed consent document and protocol~Exclusion Criteria:~* Any medical reason that, in the opinion of the investigator or sponsor, precludes the participant from inclusion in the study
+
+Interventions:
+- (DRUG) Palbociclib: oral
+- (DRUG) Cetuximab: Intravenous (IV) infusion
+- (DRUG) Fulvestrant: Intramuscular (IM)
+- (DRUG) Letrozole: oral

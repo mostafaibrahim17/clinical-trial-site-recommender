@@ -1,0 +1,13 @@
+Study: NCT02246621
+
+Summary:
+The main purpose of this study is to evaluate how effective nonsteroidal aromatase inhibitors (NSAI) plus abemaciclib are in postmenopausal women with breast cancer. Participants will be randomized to abemaciclib or placebo in a 2:1 ratio.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Have a diagnosis of hormone receptor-positive (HR+), human epidermal growth factor receptor 2-negative (HER2-) breast cancer~* Have locoregionally recurrent disease not amenable to resection or radiation therapy with curative intent or metastatic disease~* Have postmenopausal status~* Have either measurable disease or nonmeasurable bone-only disease~* Have a performance status ≤1 on the Eastern Cooperative Oncology Group (ECOG) scale~* Have adequate organ function~* Have discontinued previous localized radiotherapy for palliative purposes or for lytic lesions at risk of fracture prior to randomization and recovered from the acute effects of therapy~* Are able to swallow capsules~Exclusion Criteria:~* Have visceral crisis, lymphangitic spread, or leptomeningeal carcinomatosis~* Have inflammatory breast cancer~* Have clinical evidence or a history of central nervous system (CNS) metastasis~* Are currently receiving or have previously received endocrine therapy for locoregionally recurrent or metastatic breast cancer~* Have received prior (neo)adjuvant endocrine therapy with a disease-free interval ≤12 months from completion of treatment~* Are currently receiving or have previously received chemotherapy for locoregionally recurrent or metastatic breast cancer~* Have received prior treatment with everolimus~* Have received prior treatment with any cyclin-dependent kinase (CDK) 4/6 inhibitor (or participated in any CDK4/6 inhibitor clinical trial for which treatment assignment is still blinded)~* Have initiated bisphosphonates or approved receptor activator of nuclear factor kappa-B ligand (RANK-L) targeted agents \<7 days prior to randomization~* Are currently receiving an investigational drug in a clinical trial or participating in any other type of medical research judged not to be scientifically or medically compatible with this study~* Have received treatment with a drug that has not received regulatory approval for any indication within 14 or 21 days of randomization for a nonmyelosuppressive or myelosuppressive agent, respectively~* Have had major surgery within 14 days prior to randomization
+
+Interventions:
+- (DRUG) Abemaciclib: Administered orally
+- (DRUG) Anastrozole: Administered orally
+- (DRUG) Letrozole: Administered orally
+- (DRUG) Placebo: Administered orally

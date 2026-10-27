@@ -1,0 +1,25 @@
+Study: NCT02624973
+
+Summary:
+Breast cancer is an optimal model disease for studying personalized medicine. Breast cancer was the first malignancy for which a predictive factor forecasting response to therapy was identified nearly 50 years ago; the expression of the estrogen receptor (ER). Furthermore, breast cancer is by far the malignancy in which prognostic and predictive factors have been most extensively studied. Primary medical treatment (pre-surgical medical therapy) offers a unique setting to explore predictive factors due to the fact that primary breast cancers are easily accessible to repeated tissue sampling and evaluation of therapy response both clinically and radiologically. For many years, the investigators have studied predictive factors in primary medical treatment of breast cancer. In the present project, the investigators will implement a new trial concept where the current knowledge from previous trials with respect to predictive markers (hormone receptors, HER2; TP53, CHEK2 and RB1), will be combined with massive parallel sequencing (MPS). Thereby, the investigators aim to design the next-generation primary medical treatment where 1) therapy regimens are individualized based on a limited number of known predictive factors and, 2) MPS is used to explore additional predictive factors and their co-regulators in order to fully identify the mechanisms of drug sensitivity / resistance across individual tumours and pave the way for further personalized breast cancer therapy in the future. As for the new era of genomic medicine, the current trial concept will allow individual tumours to be characterized by their unique gene mutation / epigenetic modification profile upfront, to allocate patients to their optimal personalized medicine as compared to classical drug testing through phase II/III trials.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Previously untreated, histologically confirmed non-inflammatory breast cancer, \>4 cm in diameter and /or metastatic ipsilateral axillary deposits for which the smallest diameter of the largest node \>2 cm by CT or ultrasound scan.~* WHO performance status 0-1~* Known tumor ER, PGR, HER2 and TP53 status.~* Known tumor Ki67 percentage (if ER/PGR\>50% and TP53 wt status).~* Distant metastasis not suspected. Patients will undergo radiology exams during screening phase, after signing the informed consent.~* Age \>18 years~* Patients must have clinically and/or radiographically documented measurable breast cancer according to RECIST.~* Radiology studies (CT thorax/abdomen and bone scintigraphy/bone scan) must be performed within 28 days prior to registration.~* Absence of any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule; those conditions should be discussed with the patient before registration in the trial~* Before patient registration/randomization, written informed consent must be given according to national and local regulations.~* For arms B-H:~  * Neutrophils \> 1.5 x 109/L~ * Platelets \> 100 x 109/L~ * Bilirubin \< 2 x upper limit normal (ULN). For patients with Gilbert´s syndrome bilirubin \>2 x ULN is accepted if there is no evidence of biliary obstruction.~ * Serum creatinine \< 1.5 x ULN~ * ALT and Alk Phos (ALP) \<2.5 x ULN~ * INR \< 1.5~Exclusion Criteria:~* Unstable angina pectoris or heart failure~* Other co-morbidity that, based on the assessment of the treating physician, may preclude the use of chemotherapy at actual doses.~* Pregnant or lactating patients can not be included.~* Clinical evidence of serious coagulopathy. Prior arterial/venous thrombosis or embolism does not exclude patients from inclusion, unless patient is considered unfit by study oncologist.~* Patient not able to give an informed consent or comply with study regulations as deemed by study investigator.~* Active cystitis (to be treated upfront)~* Active bacterial infections~* Urinary obstruction
+
+Interventions:
+- (DRUG) Neoadjuvant tamoxifen + goserelin (premenopausal women)
+- (DRUG) Neoadjuvant letrozole (postmenopausal women)
+- (DRUG) Neoadjuvant endocrine therapy + palbociclib (if lack of response to endocrine therapy alone)
+- (DRUG) Neoadjuvant docetaxel + cyclophosphamide
+- (DRUG) Neoadjuvant docetaxel
+- (DRUG) Neoadjuvant docetaxel + trastuzumab + pertuzumab
+- (DRUG) Neoadjuvant docetaxel + cyclophosphamide + trastuzumab + pertuzumab
+- (DRUG) Neoadjuvant olaparib
+- (DRUG) Neoadjuvant cyclophosphamide (after 10 weeks of olaparib alone)
+- (PROCEDURE) Breast conserving surgery or mastectomy + SNB/axillary dissection: After response to neoadjuvant treatment
+- (RADIATION) Postoperative radiotherapy breast/chest wall + regional lymph nodes
+- (DRUG) Adjuvant trastuzumab
+- (DRUG) Adjuvant letrozole (postmenopausal women)
+- (DRUG) Adjuvant tamoxifen + goserelin (premenopausal women)
+- (DRUG) Adjuvant palbociclib (if palbociclib given neoadjuvant)
+- (DRUG) Adjuvant Epirubicin+ Cyclophosphamide

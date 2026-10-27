@@ -1,0 +1,12 @@
+Study: NCT02712723
+
+Summary:
+The purpose of this study is to determine if ribociclib in combination with letrozole for 24 weeks as neoadjuvant endocrine therapy increases the proportion of women with Pre-operative Endocrine Prognostic Index (PEPI) score of 0 at surgery compared to patients treated with letrozole alone therefore allowing more patients excellent outcomes without chemotherapy.
+
+Eligibility Criteria:
+Key Inclusion Criteria:~* Pathologically confirmed invasive breast cancer by core needle biopsy~* Female subjects, age ≥ 18 years~* Only postmenopausal women will be eligible.~* Performance Status: Eastern Cooperative Oncology Group (ECOG) score 0-2~* Invasive breast cancer must be ER+ in ≥66 % of the cells or ER Allred score 6-8~* Invasive breast cancer must be HER2 negative.~* Clinical Stage II or III (by clinical measurement and/or breast imaging)~Key Exclusion Criteria:~* Subjects meeting any of the exclusion criteria at baseline will be excluded from study participation.~* Current use of other investigational agents~* Inflammatory breast cancer defined as clinically significant erythema of the breast and/or documented dermal lymphatic invasion (not direct skin invasion by tumor or peau d'orange without erythema)~* An excisional biopsy of this breast cancer~* Surgical axillary staging procedure prior to study entry~* Hormone replacement therapy of any type, megestrol acetate, or raloxifene within four weeks prior to first study treatment~* Clinical or radiographic evidence of metastatic disease~* Clinically significant, uncontrolled heart disease~* Herbal preparations/medications as listed in Appendix B of the protocol
+
+Interventions:
+- (DRUG) Letrozole: Nonsteroidal aromatase inhibitor
+- (DRUG) Ribociclib: Oral cyclin-dependent kinase (CDK) inhibitor
+- (DRUG) Placebo: Placebo for ribociclib

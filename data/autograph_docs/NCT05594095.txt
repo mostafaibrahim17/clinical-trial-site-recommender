@@ -1,0 +1,28 @@
+Study: NCT05594095
+
+Summary:
+The purpose of this study is to establish a prospective, multi-center platform research based on clinical subtypes to explore precision therapy in patients hormone-receptor-positive HER2-negative advanced breast cancer who had previously used CDK4/6 inhibitors.
+
+Eligibility Criteria:
+Inclusion Criteria:~1. Female aged ≥18 years;~2. HR+/HER2- invasive breast cancer confirmed by histology (specific definition: ER \>10% positive tumor cells by immunohistochemistry is defined as ER positive, PR \>10% positive tumor cells is defined as PR positive, ER and/or PR positive is defined as HR positive; HER2 0-1+ or HER2 + but negative by FISH without amplification was defined as HER2 negative);~3. Locally advanced breast cancer (unable to undergo radical local treatment) or recurrent metastatic breast cancer;~4. HR+/HER2- advanced breast cancer patients who had previously received CDK4/6 inhibitor therapy;~5. At least one measurable lesion according to RECIST 1.1 (conventional CT scan ≥20 mm, spiral CT scan ≥10 mm, measurable lesion has not received radiotherapy);~6. The functions of the main organs are basically normal and meet the following conditions:~   I. Blood routine examination criteria shall meet: HB ≥90 g/L (no blood transfusion within 14 days); The ANC acuity 1.5 x 109 / L; PLT acuity 75 x 109 / L; Ii. Biochemical tests should meet the following criteria: TBIL ≤1.5×ULN (upper limit of normal value); ALT and AST ≤3×ULN; If liver metastases were present, ALT and AST≤ 5×ULN; Serum Cr ≤1×ULN, endogenous creatinine clearance \> 50 ml/min (Cockcroft-Gault formula);~7. They have not received radiotherapy, molecular targeted therapy, or surgery within 3 weeks before the start of the study, and have recovered from the acute toxicity of previous treatment (if surgery was performed, the wound has healed completely); No peripheral neuropathy or grade I peripheral neurotoxicity;~8. ECOG score ≤2, and life expectancy ≥3 months;~9. Fertile female subjects were required to use a medically approved contraceptive method during the study treatment period and for at least 3 months after the last use of the study drug;~10. Subjects volunteered to join the study, signed informed consent, had good compliance, and cooperated with follow-up.~Exclusion Criteria:~1. Radiotherapy (except for palliative causes), chemotherapy, and immunotherapy were used in the first 3 weeks of treatment, except bisphosphonate (which can be used for bone metastasis);~2. Uncontrolled central nervous system metastases (indicating symptomatic or symptomatic treatment with glucocorticoids or mannitol);~3. A history of clinically important or uncontrolled heart disease, including congestive heart failure, angina pectoris, myocardial infarction, or ventricular arrhythmia within the last 6 months;~4. Persistent grade 1 or higher adverse reactions caused by previous treatments. The exception to this is hair loss or something the researchers don't think should be ruled out. Such cases should be clearly documented in the investigator's notes;~5. Underwent major surgery (except minor outpatient procedures, such as placement of vascular access) within 3 weeks of the first course of trial treatment;~6. Pregnant or lactating patients; Malignancy (except basal cell carcinoma of the skin, which has been cured, and carcinoma in situ of the cervix) in the past 5 years.
+
+Interventions:
+- (DRUG) PIK3CA inhibitor: PIK3CA inhibitor
+- (DRUG) AKT inhibitor: AKT inhibitor
+- (DRUG) Carrelizumab: Pd-1 mab
+- (DRUG) Famitinib: VEGFR inhibitor
+- (DRUG) Fluzoparib: PARP inhibitor
+- (DRUG) Dalpiciclib: CDK4/6 inhibitor
+- (DRUG) SHR-A1811: HER2 ADC
+- (DRUG) Everolimus: mTOR inhibior
+- (DRUG) Aromatase Inhibitors or Fulvestrant: Letrozole/Anastrozole/Exemestane or Fulvestrant
+- (DRUG) Goserelin: For premenopause
+- (DRUG) TPC: Treatment of Physicians' Choice (albumin-paclitaxel, capecitabine, vinorelbine, and irbribulin)
+- (DRUG) Sorafenib: RTK Inhibitor
+- (DRUG) Apatinib: Apatinib 250mg po qd
+- (DRUG) SHR-A1921: TROP2 ADC
+- (DRUG) SHR-A2102: NECTIN4 ADC
+- (DRUG) SHR-A2009: HER3 ADC
+- (DRUG) SHR-1167: PARP1i
+- (DRUG) SHR-6209: CDK4i
+- (DRUG) bevacizumab: bevacizumab

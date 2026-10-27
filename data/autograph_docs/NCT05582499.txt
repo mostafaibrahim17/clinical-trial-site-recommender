@@ -1,0 +1,42 @@
+Study: NCT05582499
+
+Summary:
+The purpose of this study is to establish a prospective, single-center platform research based on clinical subtypes to explore precision neoadjuvant therapy in patients with operable breast cancer who met the indications for neoadjuvant chemotherapy and by the update of basic translational research in the center, especially the refinement of typing, the discovery of new targets and the development of novel targeted drugs, verified the effectiveness of new targeted drugs in neoadjuvant therapy.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Histologically confirmed invasive breast cancer of clinical stage T1-4N1-3M0 or cT2-4N0M0;~* Age between18-70 years;~* Eastern Cooperative Oncology Group (ECOG) performance status 0-1;~* ER, PR and HER2 status were measured by immunohistochemistry (IHC);~* LVEF≥55%；~* Definition of SNF subtypes: SNF subtypes confirmed by digital pathology of H\&E slices;~* Triple negative subtyping: On the basis of triple-negative pathological diagnosis, AR, cluster of differentiation 8 (CD8) and Forkhead Box C1 (FOXC1) were combined to define the subtyping;~* At least one measurable lesion according to RECIST version 1.1~* Normal organ and marrow function: Hemoglobin (HB) ≥90 g/L (No blood was transfused within 14 days), Absolute neutrophil count ≥ 1500/μL, Platelets ≥ 75,000/μL, Total bilirubin ≤ 1.5 x ULN), aspartate aminotransferase (AST) (SGOT) and alanine aminotransferase (ALT) (SGPT) ≤ 3 x ULN, creatinine \< 1 x ULN, endogenous creatinine clearance \> 50 ml/min (Cockcroft-Gault formula);~* Non-pregnant and non-lactating, fertile female subjects were required to use a medically approved contraceptive method for the duration of the study treatment and at least 3 months after the last use of the study drug;~* Ability to understand and willingness to sign a written informed consent~Exclusion Criteria:~* Previous cytotoxic chemotherapy, endocrine therapy, biological therapy or radiotherapy for any reason;~* Patients with New York Heart Association (NYHA) grade II or above heart disease (including grade II);~* Patients with severe systemic infections or other serious diseases;~* Patients with known allergy or intolerance to the study drug or its excipients;~* Other malignant tumors in the past 5 years, except cured cervical carcinoma in situ and non-melanoma skin cancer;~* Pregnant or lactating patients of childbearing age who refused to take appropriate contraceptive measures during the course of the study;~* Participated in other trial studies within 30 days before the administration of the first dose of the study drug;~* Patients who were judged by the investigator to be unsuitable for this study.
+
+Interventions:
+- (DRUG) Dalpiciclib: an oral cyclin-dependent kinases (CDK) 4/6 inhibitor
+- (DRUG) Pyrotinib: an irreversible dual pan-erbb receptor tyrosine kinase receptor tyrosine kinase (ERBB) inhibitor
+- (DRUG) SHR-A1811: an anti-HER2 antibody-drug conjugate (ADC)
+- (DRUG) SHR-1316: an anti-programmed death ligand 1 (PD-L1) antibody
+- (DRUG) Camrelizumab: an anti-programmed death-1 (PD1) antibody
+- (DRUG) SHR-A1921: Trophoblast cell-surface antigen 2 (TROP2) ADC
+- (DRUG) Pertuzumab: Pertuzumab
+- (DRUG) Trastuzumab: Trastuzumab
+- (DRUG) Goserelin: goserelin
+- (DRUG) Letrozole: letrozole
+- (DRUG) Nab paclitaxel: Albumin paclitaxel
+- (DRUG) Carboplatin: Carboplatin
+- (DRUG) Epirubicin: Epirubicin
+- (DRUG) Cyclophosphamide: Cyclophosphamide
+- (DRUG) Fluzoparib: an original poly adenosine diphosphate-ribose polymerase (PARP) inhibitor
+- (DRUG) Apatinib: tyrosine kinase inhibitors
+- (DRUG) Famitinib: tyrosine kinase inhibitors
+- (DRUG) HB1801: Albumin docetaxel
+- (DRUG) LEM: liposome-entrapped mitoxantrone
+- (DRUG) TQB2102: an anti-HER2 ADC
+- (DRUG) Benmelstobart: an anti-PDL1 antibody
+- (DRUG) Anlotinib: an tyrosine kinase inhibitor
+- (DRUG) TQB2868: anti-PD-1/TGF-βRII
+- (DRUG) Ivonescimab: an anti-PD-1/VEGF bispecific antibody
+- (DRUG) JS207: an anti-PD-1/VEGF bispecific antibody
+- (DRUG) JSKN003: an anti-HER2 ADC
+- (DRUG) HRS-4508: an HER2 inhibitor
+- (DRUG) SHR-4602: an anti-HER2 ADC
+- (DRUG) paclitaxel: paclitaxel
+- (DRUG) HRS-6209: an oral cyclin-dependent kinases 4 (CDK4) inhibitor
+- (DRUG) 9MW2821: a Nectin-4 antibody-drug conjugate (ADC)
+- (DRUG) IBI354: an anti-HER2 ADC
+- (RADIATION) Stereotactic Body Radiation Therapy (SBRT): Stereotactic Body Radiation Therapy (SBRT) is performed within 5 calendar days prior to the initiation of drug therapy. SBRT is delivered to the primary tumor in 3 fractions of 8 Gy each (total 24 Gy) over 3-5 days.

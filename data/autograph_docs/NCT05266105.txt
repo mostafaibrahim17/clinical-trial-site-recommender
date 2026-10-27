@@ -1,0 +1,11 @@
+Study: NCT05266105
+
+Summary:
+This is an open-label, Phase 1b dose escalation and expansion study to determine the maximum tolerated dose (MTD) of OP-1250 in combination with palbociclib (Ibrance®️, Pfizer Inc.). Purpose of study is to evaluate the safety and pharmacokinetic (PK) profile, and estimate the preliminary anti-tumor activity of the combination in adult subjects with hormone receptor-positive (ER+ / HER2-) advanced or metastatic breast cancer (MBC).
+
+Eligibility Criteria:
+Inclusion Criteria:~* Confirmed and evaluable locally advanced or metastatic breast cancer~* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1~* Must not have received prior oral endocrine or targeted therapy ≤ 2 weeks prior to first dose~* Must not have received prior chemotherapy, antibody therapy, or investigational therapy ≤ 4 weeks prior to the first dose~* Prior radiotherapy must have been completed 2 weeks prior to first dose~* Adequate safety laboratory tests~* Willingness to use effective contraception~Exclusion Criteria:~* Gastrointestinal disease~* Significant hepatic disease~* Significant cardiovascular disease~* Significant ECG abnormalities~* History of pulmonary embolism or high risk of thrombosis~* Known HIV infection~* Active infection (requiring antimicrobial therapy)~* Pregnant
+
+Interventions:
+- (DRUG) Palazestrant: Complete Estrogen Receptor Antagonist
+- (DRUG) Palbociclib: Palbociclib is an approved CDK 4/6 Inhibitor drug

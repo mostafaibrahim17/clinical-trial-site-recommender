@@ -1,0 +1,12 @@
+Study: NCT06169371
+
+Summary:
+This is a post-marketing single arm, phase IV trial in which patients with high-risk early-stage HR+HER2- breast cancer will receive adjuvant abemaciclib in combination with endocrine therapy (ET) After study intervention, participants will remain on combination abemaciclib + ET at the discretion of their treating providers
+
+Eligibility Criteria:
+Inclusion Criteria:~* ECOG 0-2~* Histologically confirmed early-stage HR+HER2- breast cancer documented by biopsy who are prescribed adjuvant abemaciclib~* Able to provide written informed consent and HIPAA authorization for release of personal health information, via an approved UIC Institutional Review Board (IRB) informed consent form and HIPAA authorization.~* Women of childbearing potential must not be pregnant or breast-feeding. A negative serum or urine pregnancy test is required per institutional practice guidelines.~* As determined at the discretion of the enrolling physician or protocol designee, ability of the subject to understand and comply with study procedures for the entire length of the study.~Exclusion Criteria:~* Chronic history of diarrhea~* Active infection requiring systemic therapy~* Uncontrolled HIV/AIDS or active viral hepatitis~* Pregnant or nursing~* Any prior or concurrent malignancy whose natural history or treatment has the potential to interfere with the safety or efficacy assessment of this investigational regimen, as determined by the treating medical oncologist.~* Other major comorbidity as determined by study PI
+
+Interventions:
+- (DRUG) Abemaciclib: Week 1 50mg orally BID
+- (DRUG) Abemaciclib: Week 2 100mg orally BID
+- (DRUG) Abemaciclib: Week 3+ 150mg orally BID

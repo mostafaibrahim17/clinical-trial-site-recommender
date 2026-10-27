@@ -1,0 +1,13 @@
+Study: NCT05766410
+
+Summary:
+The 3 FDA-approved CDK4, 6 inhibitors, palbociclib, ribociclib, and abemciclib, all provided progression-free survival benefits when combined with endocrine therapy in advanced ER+/HER2- breast cancer. But, not all of them provided overall survival benefit in the same setting. One of the proposed mechanisms that influence the overall survival difference is from the different influence of the 3 CDK4, 6 inhibitors on tumor microenvironment and/ or immune system. However, there was no head-to-head comparison of the 3 CDK4, 6 inhibitors in the same study. Neoadjuvant therapy provides a window to obtain tissue samples before treatment, during treatment, and after treatment. We aim to compare the immune modulation effects of palbociclib, ribociclib, and abemaciclib with letrozole in neoadjuvant treatment for ER+/HER2- early breast cancer.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Female patients aged ≥ 20 years old at the time of informed consent.~* Patient has a histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive and/or progesterone receptor positive breast cancer based on the most recently analyzed tissue sample and all tested by local laboratory. with estrogen receptor positive (\>10%) on IHC staining and HER2 negative (IHC 0+/1+, or IHC 2+ plus FISH negative)~* Stage II to III~* With adequate organ function~* ECOG 0-1~Exclusion Criteria:~* Pregnant or nursing (lactating) women~* Women of child-bearing potential unless using highly effective methods of contraception during study drug dosing and for 12 months post-dosing~* Patients with active systemic infections or known to have AIDS or to test positive for HIV antibody at Screening~* Any other disease or condition that could interfere with participation in the study according to the study protocol, or with the ability of the patients to cooperate and comply with the study procedures.
+
+Interventions:
+- (DRUG) Palbociclib: CDK4, 6 inhibitor
+- (DRUG) Ribociclib: CDK4, 6 inhibitor
+- (DRUG) Abemaciclib: CDK4, 6 inhibitor
+- (DRUG) Letrozole: Endocrine therapy

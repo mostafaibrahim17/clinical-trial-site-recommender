@@ -1,0 +1,12 @@
+Study: NCT07054190
+
+Summary:
+This study will evaluate the safety and efficacy of inavolisib combination therapies in participants with untreated, PIK3CA-mutated, Stage II-III, estrogen receptor (ER)-positive, Human Epidermal Growth Factor Receptor 2 (HER2)-negative breast cancer (BC).
+
+Eligibility Criteria:
+Inclusion Criteria:~* Histologically confirmed operable or inoperable invasive Stage II-III BC according to American Joint Committee on Cancer (AJCC) TNM staging classification~* Candidate for neoadjuvant treatment and considered appropriate for endocrine combination therapy~* Willingness to undergo breast surgery (mastectomy or breast-conserving surgery) after neoadjuvant treatment (unless inoperable)~* Documented ER-positive tumor in accordance with current American Society of Clinical Oncology (ASCO)/College of American Pathologists (CAP) guidelines~* Documented HER2-negative tumor in accordance with current ASCO/CAP guidelines~* Documented Ki-67 score \>=5% as per local assessment~* Confirmed PIK3CA mutation~Exclusion Criteria:~* Stage IV (metastatic) BC~* Inflammatory BC (cT4d)~* Bilateral invasive BC~* History of ductal carcinoma in situ or lobular carcinoma in situ if they have received any systemic therapy for treatment or radiation therapy to the ipsilateral breast~* Previous systemic or local treatment for the primary BC currently under investigation (including excisional biopsy or any other surgery of the primary tumor and/or axillary lymph nodes, including sentinel lymph node biopsy, radiotherapy, cytotoxic, and endocrine treatments)~* Type 2 diabetes requiring ongoing systemic treatment at the time of study entry; or any history of Type 1 diabetes
+
+Interventions:
+- (DRUG) Inavolisib: Inavolisib will be administered as per the schedule specified in the arms
+- (DRUG) Ribociclib: Ribociclib will be administered as per the schedule specified in the arms
+- (DRUG) Letrozole: Letrozole will be administered as per the schedule specified in the arms

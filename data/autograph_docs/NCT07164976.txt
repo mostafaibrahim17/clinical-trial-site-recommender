@@ -1,0 +1,12 @@
+Study: NCT07164976
+
+Summary:
+This document outlines an investigator-initiated Phase Ib/II clinical trial in Japan, focusing on the combination therapy of ribociclib and anastrozole for patients with hormone receptor-positive (HR-positive), HER2-negative metastatic or recurrent breast cancer. The trial aims to evaluate the efficacy (specifically, overall response rate) and safety of this combination in the Japanese patient population. Nagoya City University is the sponsor of this trial, with funding provided by Novartis Pharma K.K..~Study Design and Endpoints: The trial is structured into two parts:~* Phase Ib: The primary endpoint for this phase is tolerability, which is assessed by dose-limiting toxicities (DLT). Secondary endpoints include pharmacokinetics (PK) of the drugs, as well as the incidence of adverse events (AE) and serious adverse events (SAE).~* Phase II: The primary endpoint for Phase II is the Overall Response Rate (ORR), which will be determined by a blinded central imaging review based on RECIST version 1.1 criteria. Secondary endpoints encompass PK (for the initial 20 patients), ORR as assessed by the investigator, progression-free survival (PFS), overall survival (OS), and the overall incidence of adverse events
+
+Eligibility Criteria:
+Inclusion Criteria:~* Histologically confirmed invasive breast cancer.~* Hormone receptor-positive (ER positive and/or PgR positive) and HER2-negative disease:~ER positive: ≥1% positive cells or Allred score ≥3.~PgR positive: ≥1% positive cells or Allred score ≥3.~HER2 negative: IHC 0, 1+, or 2+ with no ISH amplification.~* Advanced or recurrent breast cancer (unresectable, recurrent, or Stage IV).~* Age ≥18 years at registration.~* ECOG Performance Status of 0-1.~Exclusion Criteria:~* Symptomatic visceral metastases or deemed unsuitable for endocrine therapy.~* Prior endocrine therapy or chemotherapy for metastatic/recurrent disease.~* Prior CDK4/6 inhibitor exposure (perioperative or metastatic setting).~* Adjuvant endocrine therapy within 35 days before study start.~* Active malignancy other than allowed exceptions (e.g., resected skin cancers, ≥5-year disease-free cancers).~* Hypersensitivity to ribociclib, anastrozole, or their components (including soy/peanut allergy, sugar intolerances).
+
+Interventions:
+- (DRUG) Ribociclib 400mg: phase 1b cohort 1
+- (DRUG) Ribociclib 600mg: Phase 1b cohort 2
+- (DRUG) Ribociclib 600mg: phase 2

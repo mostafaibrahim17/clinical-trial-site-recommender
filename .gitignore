@@ -15,6 +15,7 @@ venv/
 # Data
 aact_sample/
 data/synthetic_performance.json
+vec.json
 
 # Images
 Images/

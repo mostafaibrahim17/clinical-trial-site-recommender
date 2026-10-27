@@ -1,0 +1,16 @@
+Study: NCT04188548
+
+Summary:
+The reason for this study is to see if the study drug LY3484356 alone or in combination with other anticancer therapies is safe and effective in participants with advanced or metastatic breast cancer or endometrial cancer.
+
+Eligibility Criteria:
+Inclusion Criteria:~All study parts:~* Participants must be willing to provide adequate archival tissue sample~* Participants must be willing to use highly effective birth control~* Participants must have adequate organ function~* Participants must be able to swallow capsules~Dose escalation- Participants must have one of the following:~* Parts A and B: ER+ HER2- breast cancer with evidence of locally advanced unresectable or metastatic disease who have had the following:~* Part A: may have had up to 1 prior regimen of any kind for in the advanced/metastatic setting and no prior cyclin-dependent kinase 4/6 (CDK4/6) inhibitor therapy.~* Part B: may have had up to 2 prior regimens, no more than 1 of which may be endocrine therapy in the advanced/metastatic setting, and must have received a prior CDK4/6 inhibitor~* Cohort E4: No prior everolimus.~* Cohort E5: No prior alpelisib and must have a phosphatidylinositol 3-kinase catalytic α (PIK3Cα) mutation as determined by local testing.~* Part C: ER+, human epidermal growth factor receptor 2 positive (HER2+) breast cancer with evidence of locally advanced unresectable or metastatic disease who have had at least 2 HER2-directed therapies in any setting.~* Part D: ER+, EEC that has progressed after platinum containing chemotherapy and no prior fulvestrant or aromatase inhibitor therapy.~* Part E: ER+ and HER2+ breast cancer with evidence of locally advanced, unresectable, or metastatic disease.~* Part E: Participants must have received induction taxane chemotherapy combined with trastuzumab + pertuzumab as first-line treatment for advanced/metastatic disease and must not have progressed on this regimen.~* Part E: Participants must not have received more than 1 HER2-directed regimen or any endocrine therapy for advanced disease or any prior CDK4/6 inhibitor therapy.~Participants with ER+/HER2- breast cancer enrolled in this study must have had evidence of clinical benefit while on endocrine therapy for at least 24 months in the adjuvant setting or at least 6 months in the advanced/metastatic setting or have untreated de novo metastatic breast cancer~Exclusion Criteria:~* Participants must not have certain infections such as hepatitis or tuberculosis or HIV that are not well controlled~* Participants must not have another serious medical condition~* Participants must not have cancer of the central nervous system that is unstable~* Participants must not be pregnant or breastfeeding
+
+Interventions:
+- (DRUG) LY3484356: Administered orally
+- (DRUG) Abemaciclib: Administered orally
+- (DRUG) Everolimus: Administered orally
+- (DRUG) Alpelisib: Administered orally
+- (DRUG) Trastuzumab: Administered intravenously
+- (DRUG) Aromatase Inhibitor (AI): Anastrozole or Exemestane or Letrozole administered orally (physician choice)
+- (DRUG) Pertuzumab: Administered intravenously

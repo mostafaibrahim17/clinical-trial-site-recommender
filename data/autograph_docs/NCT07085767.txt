@@ -1,0 +1,14 @@
+Study: NCT07085767
+
+Summary:
+This phase 3 clinical trial compares the efficacy and safety of palazestrant with ribociclib to letrozole and ribociclib in women and men who have not received prior systemic anti-cancer treatment for advanced breast cancer.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Adult female or male participants.~* ER+, HER2- locally advanced or metastatic breast cancer that is not amenable to curative therapy.~* Evaluable disease (measurable disease per RECIST 1.1 or bone-only disease).~* De novo advanced breast cancer or with disease recurrence occurring after 12 months of completing adjuvant endocrine therapy (with or without CDK4/6 inhibitors)~* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.~* Adequate hematologic, hepatic, and renal functions.~* Female participants can be pre-, peri- or postmenopausal.~* Male and pre- or peri-menopausal female participants must be willing to take a GnRH (or LHRH) agonist.~Exclusion Criteria:~* Disease recurrence during adjuvant endocrine therapy~* Currently receiving or previously received systemic anti-cancer therapy for ER+, HER2- advanced breast cancer.~* Previously received treatment with fulvestrant, elacestrant or an investigational endocrine therapy in any setting.~* History of allergic reactions to study treatment.~* Any contraindications to letrozole and ribociclib.~* Symptomatic central nervous system metastases, carcinomatous meningitis, leptomeningeal disease, or a spinal cord compression that require immediate treatment.
+
+Interventions:
+- (DRUG) Palazestrant: Participants will be treated with palazestrant 90 mg once daily on a 4-week (28-day) cycle.
+- (DRUG) Letrozole-matching placebo: Participants will be treated with letrozole-matching placebo once daily on a 4-week (28 day) cycle
+- (DRUG) Ribociclib: Participants will be treated with ribociclib 600 mg once daily on Days 1-21 of a 4-week (28 day) cycle.
+- (DRUG) Letrozole: Participants will be treated with letrozole 2.5 mg once daily on a 4-week (28-day) cycle
+- (DRUG) Palazestrant matching-placebo: Participants will be treated with palazestrant-matching placebo once daily on a 4-week (28-day) cycle

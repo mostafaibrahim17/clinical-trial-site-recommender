@@ -1,0 +1,20 @@
+Study: NCT05768139
+
+Summary:
+Study STX-478-101 (LY4064809) is a multipart, open-label, phase 1/2 study evaluating the safety, tolerability, pharmacokinetics (PK), and preliminary antitumor activity of STX-478 (LY4064809) in participants with advanced solid tumors with P13Ka mutations.~Part 1 will evaluate STX-478 as monotherapy in participants with advanced solid tumors. Part 2 will evaluate STX-478 therapy as combination therapy with fulvestrant in participants with hormone receptor positive (HR+) breast cancer. Part 3 will evaluate STX-478 as combination therapy with endocrine therapy (aromatase inhibitors, fulvestrant, tamoxifen, or imlunestrant) and a CDK4/6 Inhibitor (either Ribociclib, Palbociclib or Abemaciclib) in participants with HR+ breast cancer.~Each study part will include a 28-day screening period, followed by treatment with STX-478 monotherapy or combination therapy.
+
+Eligibility Criteria:
+Key Inclusion Criteria:~* Has an advanced or refractory solid tumor malignancy that is metastatic or locally advanced and unresectable (as specified by Cohort)~* Has a new or recent tumor biopsy (collected at screening, if feasible) or will provide an adequate tissue sample prior to screening~* Has a tumor that harbors a documented PI3Kα mutation (cohort specific criterion for cohort-specific mutation types)~* Is ≥18 years of age at the time of signing the ICF~* Has an ECOG performance status score of 0 or 1 at screening~* Has adequate organ function as defined per protocol~Key Exclusion Criteria:~* Has history (within ≤2 years before screening) of a solid tumor or hematological malignancy that is histologically distinct from the cancers being studied~* Has symptomatic brain or spinal metastases~* Has an established diagnosis of uncontrolled diabetes mellitus (defined as HbA1c ≥8% and/or FBG ≥140 mg/dL \[7.7 mmol/L\] and/or requiring or required insulin).~* Has had prior treatment with PI3K/AKT/mTOR inhibitor(s), except in certain circumstances~* Has had treatment with any local or systemic antineoplastic therapy or investigational anticancer agent within 14 days or 4 half-lives, whichever is longer, prior to the initiation of study treatment up to a maximum washout period of 28 days. Endocrine therapy does not require a washout period if the patient is enrolling in a cohort with the same combination endocrine therapy.~* Has toxicities from previous anticancer therapies that have not resolved to baseline levels or CTCAE grade ≤1, with the exception of alopecia and peripheral neuropathy.~* Has had radiotherapy within 14 days before the initiation of study treatment
+
+Interventions:
+- (DRUG) STX-478: STX-478 is a mutant-selective PI3Kα inhibitor
+- (DRUG) Fulvestrant: Fulvestrant
+- (DRUG) Ribociclib: Ribociclib
+- (DRUG) Palbociclib: Palbociclib
+- (DRUG) Letrozole: Letrozole
+- (DRUG) Anastrozole: Anastrozole
+- (DRUG) Exemestane: Exemestane
+- (DRUG) Tamoxifen: Tamoxifen
+- (DRUG) Abemaciclib: Abemaciclib
+- (DRUG) Imlunestrant: Imlunestrant
+- (DRUG) Metformin: Metformin

@@ -1,0 +1,14 @@
+Study: NCT07340541
+
+Summary:
+This is a multicenter, multi-arm, biomarker-stratified trial designed to evaluate biomarker-directed therapies in patients with estrogen receptor-positive/hormone receptor-negative (ER+/HR-) and triple-negative (TN) metastatic breast cancer (MBC). The trial integrates both retrospective and prospective data collection, including archival tumor tissue, medical record abstraction, and prospective tumor and blood sampling prior to initiation of protocol directed treatment. Based on biomarker subtype, participants will receive standard of care therapy. Liquid biopsy will be collected on Cycle 2 Day 1, and then liquid biopsy, imaging and clinical data will be collected at each re-staging. Treatment will continue until discontinuation for progression, toxicity or at the discretion of the treating physician.
+
+Eligibility Criteria:
+Inclusion Criteria:~* Written informed consent obtained to participate in the study and HIPAA authorization for release of personal health information.~* Subject is willing and able to comply with study procedures based on the judgement of the investigator.~* Age ≥ 18 years of age at the time of consent~* ECOG Performance Status of 0-2 (see APPENDIX A: ECOG Performance Status Scale).~* Patients must fulfill all eligibility criteria outlined in the LCCC2521 Parent Protocol and consented to LCCC2521 Parent Protocol~Exclusion Criteria:~* Inaccessible metastatic lesion to research biopsy~* Subject has already initiated 2nd line therapy~* Concurrent disease or condition that in the opinion of the treating oncologist renders the patient inappropriate for study participation
+
+Interventions:
+- (DRUG) SERD* + abemaciclib: Investigators choice Selective Estrogen Receptor Degrader + abemaciclib therapy.
+- (DRUG) SERD* + everolimus: Investigators choice Selective Estrogen Receptor Degrader + everolimus therapy.
+- (DRUG) SERD* + everolimus or capecitabine: Investigators choice Selective Estrogen Receptor Degrader + everolimus or capecitabine therapy.
+- (DRUG) SOC: standard-of-care (SOC) chemotherapy in breast cancer
+- (DRUG) Antiandrogen: Antiandrogen therapy

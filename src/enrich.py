@@ -3,7 +3,7 @@ enrich.py — adds external structured data onto facilities. FAST + RESUMABLE.
 
 Runs AFTER ingest.py, BEFORE the resolver.
 
-Design (see limitations_log.md):
+Design:
   - Prevalence  : CDC PLACES all-cancer prevalence, county level, PROXY. REAL data.
   - Demographics: SYNTHETIC median age per county (seeded). Live Census ACS now needs a key (deferred).
   - Geo join    : facility lat/long -> county FIPS via keyless FCC Area API.

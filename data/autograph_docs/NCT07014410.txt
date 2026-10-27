@@ -1,0 +1,10 @@
+Study: NCT07014410
+
+Summary:
+This is a a multicenter Phase II clinical study investigating efficacy of pyrotinib combined with dalpiciclib combined with letrozole in ER-positive and HER2-positive advanced breast cancer patients. The sample size is 63.
+
+Eligibility Criteria:
+Inclusion Criteria:~1. The subjects voluntarily joined the study, signed the informed consent, and had good compliance~2. Postmenopausal or premenopausal/perimenopausal women aged ≥18 years and ≤75 years~3. Patients with recurrent/metastatic breast cancer confirmed by histopathology with positive ER expression and positive HER2 expression~4. Have at least one extracranial measurable lesion that meets RECIST 1.1 criteria~5. At most one previous trastuzumab containing systemic therapy for recurrent metastatic breast cancer~Exclusion Criteria:~1. Subjects had untreated central nervous system metastasis~2. Bilateral breast cancer, inflammatory breast cancer, or latent breast cancer~3. Previous treatment with any CDK4/6 inhibitors~4. Inability to swallow, intestinal obstruction, or other factors affecting drug use and absorption~5. Subject has had other malignancies (except cured basal cell carcinoma of the skin and carcinoma in situ of the cervix) within 5 years or at the same time
+
+Interventions:
+- (DRUG) pyrotinib dalpiciclib letrozole: ER positive HER2 positive advanced breast cancer patients are given pyrotinib+dalpiciclib+letrozole
